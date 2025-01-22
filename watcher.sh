@@ -3,6 +3,10 @@
 # Watch a websites for changes by downloading pages and archiving them
 # in a git repository. Push notification of changes.
 
+# TODO
+# - Use --no-progress-meter on curl
+# - Command line options: --verbose
+
 for url in $(cat urls.txt); do
     echo -n '>>>' $url:
  
@@ -11,7 +15,7 @@ for url in $(cat urls.txt); do
     path=$dir/$name
     mkdir -p $dir
 
-    curl -m 60 -A "Watcher/0.1; (watcher@fastmail.org)" $url > $path
+    curl --max-time 60 -user-agent "Watcher/0.1; (watcher@fastmail.org)" $url > $path
     if ! prettier --write --parser html $path; then
         tidy -mi --force-output true -ashtml --drop-empty-elements no --drop-empty-paras no --fix-style-tags no --join-styles no --merge-emphasis no --tidy-mark no $path
         prettier --write --parser html $path
