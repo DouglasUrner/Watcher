@@ -4,7 +4,7 @@
 # in a git repository. Push notification of changes.
 
 for url in $(cat urls.txt); do
-    echo '>>>' $url
+    echo -n '>>>' $url:
  
     dir=out/$(./pathogen.sh $url)
     name=$(date -Iseconds)
@@ -24,6 +24,7 @@ for url in $(cat urls.txt); do
 
         prettier --write --parser html $path
     fi
+    echo
 done
 
 # https://simonwillison.net/2020/Oct/9/git-scraping/
