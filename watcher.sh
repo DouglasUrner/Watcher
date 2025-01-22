@@ -4,7 +4,7 @@ for url in $(cat urls.txt); do
     echo '>>>' $url
     #name=$(echo $url | sed s./._.g)
     #path=out/$name
-    dir=$(./pathogen $url)
+    dir=$(./pathogen.sh $url)
     name=$(date -Iseconds)
     path=$dir/$timestamp
     mkdir -p dir
