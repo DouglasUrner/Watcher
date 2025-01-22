@@ -2,11 +2,48 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
+    <script
+      type="text/javascript"
+      src="/_static/js/bundle-playback.js?v=HxkREWBo"
+      charset="utf-8"
+    ></script>
+    <script
+      type="text/javascript"
+      src="/_static/js/wombat.js?v=txqj7nKC"
+      charset="utf-8"
+    ></script>
+    <script>
+      window.RufflePlayer = window.RufflePlayer || {};
+      window.RufflePlayer.config = { autoplay: "on", unmuteOverlay: "hidden" };
+    </script>
+    <script type="text/javascript" src="/_static/js/ruffle/ruffle.js"></script>
+    <script type="text/javascript">
+      __wm.init("https://web.archive.org/web");
+      __wm.wombat(
+        "https://www.psd401.net/80582_2",
+        "20241210042432",
+        "https://web.archive.org/",
+        "web",
+        "/_static/",
+        "1733804672",
+      );
+    </script>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/_static/css/banner-styles.css?v=S1zqJCYt"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/_static/css/iconochive.css?v=3PDvdIFv"
+    />
+    <!-- End Wayback Rewrite JS Include -->
     <!-- needed for form submission -->
 
     <script
       id="googleRecaptcha"
-      src="https://www.google.com/recaptcha/api.js?render=6LcgqJAUAAAAAJhQs01VmAHQEf3SatmIFQjI7iNP"
+      src="https://web.archive.org/web/20241210042432js_/https://www.google.com/recaptcha/api.js?render=6LcgqJAUAAAAAJhQs01VmAHQEf3SatmIFQjI7iNP"
       async
       defer
     ></script>
@@ -624,11 +661,11 @@
     <meta property="og:title" content="Peninsula School District" />
     <meta
       property="og:image"
-      content="https://cdn.smartsites.parentsquare.com/library/common/DefaultShareImage_350x350.png"
+      content="https://web.archive.org/web/20241210042432im_/https://cdn.smartsites.parentsquare.com/library/common/DefaultShareImage_350x350.png"
     />
     <meta
       property="og:image"
-      content="https://cdn.smartsites.parentsquare.com/library/common/DefaultShareImage_350x350.png"
+      content="https://web.archive.org/web/20241210042432im_/https://cdn.smartsites.parentsquare.com/library/common/DefaultShareImage_350x350.png"
     />
     <meta name="description" content="Peninsula School District" />
     <meta name="keywords" content="" />
@@ -644,27 +681,31 @@
     <meta name="expires" content="Never" />
     <meta name="robots" content="index, follow" />
     <meta name="revisit-after" content="7 days" />
-    <link rel="stylesheet" href="/includes/customFonts/icon-set/styles.css" />
+    <link
+      rel="stylesheet"
+      href="/web/20241210042432cs_/https://www.psd401.net/includes/customFonts/icon-set/styles.css"
+    />
     <meta http-equiv="Content-Language" content="en" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link
       rel="shortcut icon"
-      href="//files.smartsites.parentsquare.com/5433/favicon.ico"
+      href="//web.archive.org/web/20241210042432im_/https://files.smartsites.parentsquare.com/5433/favicon.ico"
       type="image/x-icon"
     />
     <title>Peninsula School District - Non-Discrimination</title>
     <link
       rel="stylesheet"
       type="text/css"
-      href="https://fonts.googleapis.com/css?family=Nunito+Sans%3A700%7CNunito+Sans%7CNunito+Sans%3A800"
+      href="https://web.archive.org/web/20241210042432cs_/https://fonts.googleapis.com/css?family=Nunito+Sans%3A700%7CNunito+Sans%7CNunito+Sans%3A800"
     />
     <link
       rel="stylesheet"
       type="text/css"
       media="print"
-      href="/templates/common/css_print.css"
+      href="/web/20241210042432cs_/https://www.psd401.net/templates/common/css_print.css"
     />
+
     <script>
       (function (h, o, u, n, d) {
         h = h[d] = h[d] || {
@@ -682,7 +723,7 @@
         window,
         document,
         "script",
-        "https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js",
+        "https://web.archive.org/web/20241210042432/https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js",
         "DD_RUM",
       );
       window.DD_RUM.onReady(function () {
@@ -705,75 +746,92 @@
     </script>
     <script
       type="text/javascript"
-      src="//cdn.smartsites.parentsquare.com/lib/jquery/3.6.0/jquery.min.js"
+      src="//web.archive.org/web/20241210042432js_/https://cdn.smartsites.parentsquare.com/lib/jquery/3.6.0/jquery.min.js"
     ></script>
     <script
       type="text/javascript"
-      src="https://cdn.smartsites.parentsquare.com/library/jquery/jquery-ui-1.14.0/jquery-ui.min.js"
+      src="https://web.archive.org/web/20241210042432js_/https://cdn.smartsites.parentsquare.com/library/jquery/jquery-ui-1.14.0/jquery-ui.min.js"
     ></script>
     <script
       type="text/javascript"
-      src="https://cdn.smartsites.parentsquare.com/library/jquery/jquery.ui.touch-punch.min.js"
+      src="https://web.archive.org/web/20241210042432js_/https://cdn.smartsites.parentsquare.com/library/jquery/jquery.ui.touch-punch.min.js"
     ></script>
     <!-- <script type="text/javascript" src="//cdn.smartsites.parentsquare.com/lib/jquery/js/jquery.js"></script> -->
 
-    <script type="text/javascript" src="/js/jquery.fittext.js"></script>
+    <script
+      type="text/javascript"
+      src="/web/20241210042432js_/https://www.psd401.net/js/jquery.fittext.js"
+    ></script>
     <link
       property="stylesheet"
-      href="//cdn.smartsites.parentsquare.com/lib/bootstrap/css/bootstrap.css"
+      href="//web.archive.org/web/20241210042432cs_/https://cdn.smartsites.parentsquare.com/lib/bootstrap/css/bootstrap.css"
       rel="stylesheet"
     />
     <link
       rel="stylesheet"
       type="text/css"
-      href="/css/bootstrap_custom_5column.css"
+      href="/web/20241210042432cs_/https://www.psd401.net/css/bootstrap_custom_5column.css"
     />
     <link
       property="stylesheet"
-      href="//cdn.smartsites.parentsquare.com/lib/bootstrap/css/daterangepicker.css"
+      href="//web.archive.org/web/20241210042432cs_/https://cdn.smartsites.parentsquare.com/lib/bootstrap/css/daterangepicker.css"
       rel="stylesheet"
     />
     <link
       property="stylesheet"
-      href="//cdn.smartsites.parentsquare.com/lib/bootstrap/css/build.css"
+      href="//web.archive.org/web/20241210042432cs_/https://cdn.smartsites.parentsquare.com/lib/bootstrap/css/build.css"
       rel="stylesheet"
     />
     <!-- <script type="text/javascript" src="//cdn.smartsites.parentsquare.com/lib/bootstrap/js/3.4.1/bootstrap.min.js"></script> -->
 
     <script
       type="text/javascript"
-      src="/includes/bootstrap/js/bootstrap.min.js"
+      src="/web/20241210042432js_/https://www.psd401.net/includes/bootstrap/js/bootstrap.min.js"
     ></script>
     <script
       type="text/javascript"
-      src="//cdn.smartsites.parentsquare.com/lib/bootstrap/js/moment.js"
+      src="//web.archive.org/web/20241210042432js_/https://cdn.smartsites.parentsquare.com/lib/bootstrap/js/moment.js"
     ></script>
     <script
       type="text/javascript"
-      src="//cdn.smartsites.parentsquare.com/lib/bootstrap/js/daterangepicker.js"
+      src="//web.archive.org/web/20241210042432js_/https://cdn.smartsites.parentsquare.com/lib/bootstrap/js/daterangepicker.js"
     ></script>
     <link
       rel="stylesheet"
-      href="https://cdn.smartsites.parentsquare.com/library/jquery/jquery-ui-1.14.0/jquery-ui.min.css"
+      href="https://web.archive.org/web/20241210042432cs_/https://cdn.smartsites.parentsquare.com/library/jquery/jquery-ui-1.14.0/jquery-ui.min.css"
     />
     <link
       rel="stylesheet"
-      href="https://cdn.smartsites.parentsquare.com/library/jquery/jquery-ui-1.14.0/jquery-ui.theme.min.css"
+      href="https://web.archive.org/web/20241210042432cs_/https://cdn.smartsites.parentsquare.com/library/jquery/jquery-ui-1.14.0/jquery-ui.theme.min.css"
     />
 
-    <script type="text/javascript" src="/includes/js/countUp.js"></script>
-    <script type="text/javascript" src="/js/pause_carousels.js"></script>
+    <script
+      type="text/javascript"
+      src="/web/20241210042432js_/https://www.psd401.net/includes/js/countUp.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="/web/20241210042432js_/https://www.psd401.net/js/pause_carousels.js"
+    ></script>
     <!-- Slick Slider CSS -->
-    <link rel="stylesheet" type="text/css" href="/includes/css/slick.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/web/20241210042432cs_/https://www.psd401.net/includes/css/slick.css"
+    />
     <!-- Slick Slider JS -->
 
-    <script src="/includes/js/slick.min.js"></script>
-    <script src="/includes/js/enquire.min.js"></script>
-    <link href="/css/hover.css" rel="stylesheet" media="all" />
+    <script src="/web/20241210042432js_/https://www.psd401.net/includes/js/slick.min.js"></script>
+    <script src="/web/20241210042432js_/https://www.psd401.net/includes/js/enquire.min.js"></script>
+    <link
+      href="/web/20241210042432cs_/https://www.psd401.net/css/hover.css"
+      rel="stylesheet"
+      media="all"
+    />
     <!--youtube plugin-->
     <!-- Open Sans -->
     <link
-      href="https://fonts.googleapis.com/css?family=Open+Sans:400,700"
+      href="https://web.archive.org/web/20241210042432cs_/https://fonts.googleapis.com/css?family=Open+Sans:400,700"
       rel="stylesheet"
       type="text/css"
     />
@@ -782,129 +840,146 @@
       rel="stylesheet"
       type="text/css"
       media="screen"
-      href="css/icons.min.css"
+      href="/web/20241210042432cs_/https://www.psd401.net/css/icons.min.css"
     />
     <!-- Perfect Scrollbar -->
     <link
       rel="stylesheet"
       type="text/css"
       media="screen"
-      href="css/perfect-scrollbar.css"
+      href="/web/20241210042432cs_/https://www.psd401.net/css/perfect-scrollbar.css"
     />
-    <script type="text/javascript" src="js/jquery.mousewheel.js"></script>
-    <script type="text/javascript" src="js/perfect-scrollbar.js"></script>
-    <link
-      property="stylesheet"
-      href="/css/bootstrap-select.css"
-      rel="stylesheet"
-    />
-    <link
-      property="stylesheet"
-      href="//cdn.smartsites.parentsquare.com/fontawesome6.5.1/css/all.min.css"
-      rel="stylesheet"
-    />
-    <link
-      property="stylesheet"
-      href="//cdn.smartsites.parentsquare.com/fontawesome6.5.1/css/sharp-light.min.css"
-      rel="stylesheet"
-    />
-    <link
-      property="stylesheet"
-      href="//cdn.smartsites.parentsquare.com/fontawesome6.5.1/css/sharp-regular.min.css"
-      rel="stylesheet"
-    />
-    <link
-      property="stylesheet"
-      href="//cdn.smartsites.parentsquare.com/fontawesome6.5.1/css/sharp-solid.min.css"
-      rel="stylesheet"
-    />
-    <link
-      property="stylesheet"
-      href="//cdn.smartsites.parentsquare.com/fontawesome6.5.1/css/sharp-thin.min.css"
-      rel="stylesheet"
-    />
-    <link
-      property="stylesheet"
-      href="//cdn.smartsites.parentsquare.com/fontawesome6.5.1/css/v4-shims.min.css"
-      rel="stylesheet"
-    />
-    <link
-      property="stylesheet"
-      href="//cdn.smartsites.parentsquare.com/fontawesome6.5.1/css/v4-font-face.min.css"
-      rel="stylesheet"
-    />
-    <link
-      property="stylesheet"
-      href="//cdn.smartsites.parentsquare.com/fontawesome6.5.1/css/v5-font-face.min.css"
-      rel="stylesheet"
-    />
-    <script type="text/javascript" src="/js/bootstrap-select.js"></script>
-    <link
-      property="stylesheet"
-      href="//cdn.smartsites.parentsquare.com/lib/bootstrap/css/dscountdown.css"
-      rel="stylesheet"
-    />
+
     <script
       type="text/javascript"
-      src="//cdn.smartsites.parentsquare.com/lib/bootstrap/js/dscountdown.min.js"
+      src="/web/20241210042432js_/https://www.psd401.net/js/jquery.mousewheel.js"
     ></script>
     <script
       type="text/javascript"
-      src="//cdn.smartsites.parentsquare.com/lib/bootstrap/js/jquery.bsPhotoGallery.js"
+      src="/web/20241210042432js_/https://www.psd401.net/js/perfect-scrollbar.js"
+    ></script>
+    <link
+      property="stylesheet"
+      href="/web/20241210042432cs_/https://www.psd401.net/css/bootstrap-select.css"
+      rel="stylesheet"
+    />
+    <link
+      property="stylesheet"
+      href="//web.archive.org/web/20241210042432cs_/https://cdn.smartsites.parentsquare.com/fontawesome6.5.1/css/all.min.css"
+      rel="stylesheet"
+    />
+    <link
+      property="stylesheet"
+      href="//web.archive.org/web/20241210042432cs_/https://cdn.smartsites.parentsquare.com/fontawesome6.5.1/css/sharp-light.min.css"
+      rel="stylesheet"
+    />
+    <link
+      property="stylesheet"
+      href="//web.archive.org/web/20241210042432cs_/https://cdn.smartsites.parentsquare.com/fontawesome6.5.1/css/sharp-regular.min.css"
+      rel="stylesheet"
+    />
+    <link
+      property="stylesheet"
+      href="//web.archive.org/web/20241210042432cs_/https://cdn.smartsites.parentsquare.com/fontawesome6.5.1/css/sharp-solid.min.css"
+      rel="stylesheet"
+    />
+    <link
+      property="stylesheet"
+      href="//web.archive.org/web/20241210042432cs_/https://cdn.smartsites.parentsquare.com/fontawesome6.5.1/css/sharp-thin.min.css"
+      rel="stylesheet"
+    />
+    <link
+      property="stylesheet"
+      href="//web.archive.org/web/20241210042432cs_/https://cdn.smartsites.parentsquare.com/fontawesome6.5.1/css/v4-shims.min.css"
+      rel="stylesheet"
+    />
+    <link
+      property="stylesheet"
+      href="//web.archive.org/web/20241210042432cs_/https://cdn.smartsites.parentsquare.com/fontawesome6.5.1/css/v4-font-face.min.css"
+      rel="stylesheet"
+    />
+    <link
+      property="stylesheet"
+      href="//web.archive.org/web/20241210042432cs_/https://cdn.smartsites.parentsquare.com/fontawesome6.5.1/css/v5-font-face.min.css"
+      rel="stylesheet"
+    />
+    <script
+      type="text/javascript"
+      src="/web/20241210042432js_/https://www.psd401.net/js/bootstrap-select.js"
+    ></script>
+    <link
+      property="stylesheet"
+      href="//web.archive.org/web/20241210042432cs_/https://cdn.smartsites.parentsquare.com/lib/bootstrap/css/dscountdown.css"
+      rel="stylesheet"
+    />
+    <script
+      type="text/javascript"
+      src="//web.archive.org/web/20241210042432js_/https://cdn.smartsites.parentsquare.com/lib/bootstrap/js/dscountdown.min.js"
     ></script>
     <script
       type="text/javascript"
-      src="/js/bootstrap-datetimepicker.min.js"
+      src="//web.archive.org/web/20241210042432js_/https://cdn.smartsites.parentsquare.com/lib/bootstrap/js/jquery.bsPhotoGallery.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="/web/20241210042432js_/https://www.psd401.net/js/bootstrap-datetimepicker.min.js"
     ></script>
     <link
       rel="stylesheet"
       type="text/css"
-      href="/css/bootstrap-datetimepicker.css"
+      href="/web/20241210042432cs_/https://www.psd401.net/css/bootstrap-datetimepicker.css"
     />
+
     <script
       type="text/javascript"
-      src="/js/jquery.bootstrap-touchspin.js"
+      src="/web/20241210042432js_/https://www.psd401.net/js/jquery.bootstrap-touchspin.js"
     ></script>
     <link
       rel="stylesheet"
       type="text/css"
-      href="/css/jquery.bootstrap-touchspin.css"
+      href="/web/20241210042432cs_/https://www.psd401.net/css/jquery.bootstrap-touchspin.css"
     />
     <!--<script type="text/javascript" src="jquery/jquery.ui.touch-punch.min.js"></script>-->
     <link
       rel="stylesheet"
       type="text/css"
-      href="/includes/alertify/themes/alertify.bootstrap.css"
+      href="/web/20241210042432cs_/https://www.psd401.net/includes/alertify/themes/alertify.bootstrap.css"
     />
     <link
       rel="stylesheet"
       type="text/css"
-      href="/includes/alertify/themes/alertify.core.css"
+      href="/web/20241210042432cs_/https://www.psd401.net/includes/alertify/themes/alertify.core.css"
     />
     <link
       rel="stylesheet"
       type="text/css"
-      href="/includes/alertify/themes/alertify.default.css"
+      href="/web/20241210042432cs_/https://www.psd401.net/includes/alertify/themes/alertify.default.css"
     />
+
     <script
       type="text/javascript"
-      src="/includes/alertify/lib/alertify.min.js"
+      src="/web/20241210042432js_/https://www.psd401.net/includes/alertify/lib/alertify.min.js"
     ></script>
     <script
       type="text/javascript"
-      src="//cdn.smartsites.parentsquare.com/lib/js/wow.min.js"
+      src="//web.archive.org/web/20241210042432js_/https://cdn.smartsites.parentsquare.com/lib/js/wow.min.js"
     ></script>
     <link
       rel="stylesheet"
       type="text/css"
-      href="//cdn.smartsites.parentsquare.com/css/animate.css"
+      href="//web.archive.org/web/20241210042432cs_/https://cdn.smartsites.parentsquare.com/css/animate.css"
     />
     <link
       rel="stylesheet"
       type="text/css"
-      href="/includes/css/liquid-slider.css"
+      href="/web/20241210042432cs_/https://www.psd401.net/includes/css/liquid-slider.css"
     />
-    <link rel="stylesheet" type="text/css" href="/css/normalize.css?abcd1234" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/web/20241210042432cs_/https://www.psd401.net/css/normalize.css?abcd1234"
+    />
+
     <style>
       .container {
         width: 100%;
@@ -948,17 +1023,34 @@
         }
       }
     </style>
-    <link href="/css/jquery.smartmenus.bootstrap.css" rel="stylesheet" />
-    <script type="text/javascript" src="/js/jquery.smartmenus.js"></script>
+    <link
+      href="/web/20241210042432cs_/https://www.psd401.net/css/jquery.smartmenus.bootstrap.css"
+      rel="stylesheet"
+    />
     <script
       type="text/javascript"
-      src="/js/jquery.smartmenus.bootstrap.js"
+      src="/web/20241210042432js_/https://www.psd401.net/js/jquery.smartmenus.js"
     ></script>
-    <script src="https://unpkg.com/object-fit-images/dist/ofi.min.js"></script>
-    <script type="text/javascript" src="/js/jarallax214.min.js"></script>
-    <script type="text/javascript" src="/js/jarallax-video214.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="/css/jarallax.min.css" />
-    <script src="https://cdn.jsdelivr.net/gh/dixonandmoe/rellax@master/rellax.min.js"></script>
+    <script
+      type="text/javascript"
+      src="/web/20241210042432js_/https://www.psd401.net/js/jquery.smartmenus.bootstrap.js"
+    ></script>
+    <script src="https://web.archive.org/web/20241210042432js_/https://unpkg.com/object-fit-images/dist/ofi.min.js"></script>
+    <script
+      type="text/javascript"
+      src="/web/20241210042432js_/https://www.psd401.net/js/jarallax214.min.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="/web/20241210042432js_/https://www.psd401.net/js/jarallax-video214.min.js"
+    ></script>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/web/20241210042432cs_/https://www.psd401.net/css/jarallax.min.css"
+    />
+
+    <script src="https://web.archive.org/web/20241210042432js_/https://cdn.jsdelivr.net/gh/dixonandmoe/rellax@master/rellax.min.js"></script>
     <script>
       $(function () {
         // Found: https://dirask.com/posts/JavaScript-detect-Apple-Safari-web-browser-p5g2R1
@@ -988,52 +1080,52 @@
         });
       });
     </script>
-    <script src="/includes/js/head.min.js"></script>
+    <script src="/web/20241210042432js_/https://www.psd401.net/includes/js/head.min.js"></script>
     <link
       rel="stylesheet"
-      href="https://cdn.datatables.net/1.10.13/css/dataTables.bootstrap.min.css"
+      href="https://web.archive.org/web/20241210042432cs_/https://cdn.datatables.net/1.10.13/css/dataTables.bootstrap.min.css"
     />
     <link
       rel="stylesheet"
-      href="https://cdn.datatables.net/responsive/2.1.1/css/responsive.bootstrap.min.css"
+      href="https://web.archive.org/web/20241210042432cs_/https://cdn.datatables.net/responsive/2.1.1/css/responsive.bootstrap.min.css"
     />
     <!--<link rel="stylesheet" href="https://nightly.datatables.net/responsive/css/responsive.dataTables.css">-->
     <link
       rel="stylesheet"
-      href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css"
+      href="https://web.archive.org/web/20241210042432cs_/https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css"
     />
     <!-- Google Fonts -->
     <link
-      href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=latin-ext"
+      href="https://web.archive.org/web/20241210042432cs_/https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=latin-ext"
       rel="stylesheet"
     />
     <!-- Include all compiled plugins (below), or include individual files as needed -->
 
-    <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
-    <script src="https://cdn.datatables.net/1.10.13/js/dataTables.bootstrap.min.js"></script>
-    <script src="https://cdn.datatables.net/responsive/2.1.1/js/dataTables.responsive.min.js"></script>
-    <script src="https://cdn.datatables.net/responsive/2.1.1/js/responsive.bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
-    <script src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
-    <script src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
-    <script src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+    <script src="https://web.archive.org/web/20241210042432js_/https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script src="https://web.archive.org/web/20241210042432js_/https://cdn.datatables.net/1.10.13/js/dataTables.bootstrap.min.js"></script>
+    <script src="https://web.archive.org/web/20241210042432js_/https://cdn.datatables.net/responsive/2.1.1/js/dataTables.responsive.min.js"></script>
+    <script src="https://web.archive.org/web/20241210042432js_/https://cdn.datatables.net/responsive/2.1.1/js/responsive.bootstrap.min.js"></script>
+    <script src="https://web.archive.org/web/20241210042432js_/https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+    <script src="https://web.archive.org/web/20241210042432js_/https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+    <script src="https://web.archive.org/web/20241210042432js_/https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+    <script src="https://web.archive.org/web/20241210042432js_/https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+    <script src="https://web.archive.org/web/20241210042432js_/https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
+    <script src="https://web.archive.org/web/20241210042432js_/https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
     <link
       rel="stylesheet"
       type="text/css"
-      href="/css/main-sass.css?v=20250121032917"
+      href="/web/20241210042432cs_/https://www.psd401.net/css/main.sass.css?v=20241206161939"
     />
-    <script src="/js/classes/ColorContrast.js"></script>
-    <script src="/js/stack_items.js?v=20250121032917"></script>
-    <script src="/js/general.js?v=20250121032917"></script>
+
+    <script src="/web/20241210042432js_/https://www.psd401.net/js/classes/ColorContrast.js"></script>
+    <script src="/web/20241210042432js_/https://www.psd401.net/js/stack_items.js?v=20241206161939"></script>
     <!--need to move this to our cdn-->
 
     <script
       type="text/javascript"
-      src="https://cdn.jsdelivr.net/npm/gasparesganga-jquery-loading-overlay@2.1.6/dist/loadingoverlay.min.js"
+      src="https://web.archive.org/web/20241210042432js_/https://cdn.jsdelivr.net/npm/gasparesganga-jquery-loading-overlay@2.1.6/dist/loadingoverlay.min.js"
     ></script>
-    <script src="https://use.typekit.net/ynn5aia.js"></script>
+    <script src="https://web.archive.org/web/20241210042432js_/https://use.typekit.net/ynn5aia.js"></script>
     <script>
       try {
         Typekit.load({ async: true });
@@ -1373,7 +1465,7 @@
     <!-- Google tag (gtag.js) -->
     <script
       async
-      src="https://www.googletagmanager.com/gtag/js?id=G-H4WP286RFW"
+      src="https://web.archive.org/web/20241210042432js_/https://www.googletagmanager.com/gtag/js?id=G-H4WP286RFW"
     ></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -1412,7 +1504,7 @@
     </style>
     <script
       type="text/javascript"
-      src="https://cdn.weglot.com/weglot.min.js"
+      src="https://web.archive.org/web/20241210042432js_/https://cdn.weglot.com/weglot.min.js"
     ></script>
     <script>
       Weglot.initialize({ api_key: "wg_6abf5ff7a4394b1d66958c0ba75a67802" });
@@ -1471,10 +1563,7 @@
         </div>
       </div>
     </nav>
-    <div
-      id="ckeditor-contactForm-modal"
-      class="modal ss-lightbox-modal ss-lightbox-modal-default"
-    >
+    <div id="ckeditor-contactForm-modal" class="modal ss-lightbox-modal">
       <div class="ss-lightbox-modal-content-wrap">
         <div class="ss-lightbox-modal-content">
           <button class="ss-button ss-close-modal" data-dismiss="modal">
@@ -1488,17 +1577,6 @@
         </div>
       </div>
     </div>
-    <script>
-      $(document).ready(() => {
-        const lightboxModal = $("#ckeditor-contactForm-modal");
-        lightboxModal.on("show.bs.modal", function (e) {
-          $("html").addClass("modal-open");
-        });
-        lightboxModal.on("hide.bs.modal", function (e) {
-          $("html").removeClass("modal-open");
-        });
-      });
-    </script>
     <script>
       $(document).ready(function () {
         let version = navigator.userAgent;
@@ -1845,7 +1923,7 @@
               style="padding: 15px 0px; border-radius: 50px"
               class="col-md-12"
               alt="Help Image 1"
-              src="https://graphicsdepartment.smartsites.parentsquare.com/Graphics/ADA/ada_img_2.png"
+              src="https://web.archive.org/web/20241210042432im_/https://graphicsdepartment.smartsites.parentsquare.com/Graphics/ADA/ada_img_2.png"
             />
             <div class="col-md-12">
               Select the Shortcuts tab. Make sure the box for "Use keyboard
@@ -1857,7 +1935,7 @@
               aria-label="Once you're in the Keyboard settings, navigate to the Shortcuts tab and make sure that the box for 'Use keyboard navigation to move focus between controls' is checked."
               style="padding: 15px 0px; border-radius: 50px"
               class="col-md-12"
-              src="https://graphicsdepartment.smartsites.parentsquare.com/Graphics/ADA/ada_img_1.png"
+              src="https://web.archive.org/web/20241210042432im_/https://graphicsdepartment.smartsites.parentsquare.com/Graphics/ADA/ada_img_1.png"
             />
             <div class="clearfix"></div>
             Additional settings for Safari Browser.
@@ -1866,7 +1944,7 @@
               aria-label="Open Safari Preferences"
               style="padding: 15px 0px; border-radius: 50px"
               class="col-md-12"
-              src="https://graphicsdepartment.smartsites.parentsquare.com/Graphics/ADA/ada_img_3.png"
+              src="https://web.archive.org/web/20241210042432im_/https://graphicsdepartment.smartsites.parentsquare.com/Graphics/ADA/ada_img_3.png"
             />
             <div class="col-md-12">
               Select the Advanced tab. Make sure the box for "Press Tab to
@@ -1878,7 +1956,7 @@
               aria-label="Once you're in Preferences, navigate to the Advanced tab and make sure that the box for 'Press Tab to highlight each item on a webpage' is checked."
               style="padding: 15px 0px; border-radius: 50px"
               class="col-md-12"
-              src="https://graphicsdepartment.smartsites.parentsquare.com/Graphics/ADA/ada_img_4.png"
+              src="https://web.archive.org/web/20241210042432im_/https://graphicsdepartment.smartsites.parentsquare.com/Graphics/ADA/ada_img_4.png"
             />
             <p></p>
           </div>
@@ -2033,10 +2111,12 @@
         <div class="ss-site-header-hero-container">
           <div class="ss-site-header-hero-image">
             <h1>
-              <a aria-label="Peninsula School District" href="/"
+              <a
+                aria-label="Peninsula School District"
+                href="/web/20241210042432/https://www.psd401.net/"
                 ><img
                   alt=""
-                  src="https://files.smartsites.parentsquare.com/5433/header_logo_img_3qvlyy.png"
+                  src="https://web.archive.org/web/20241210042432im_/https://files.smartsites.parentsquare.com/5433/header_logo_img_3qvlyy.png"
               /></a>
             </h1>
           </div>
@@ -2100,7 +2180,11 @@
             ></a>
           </li>
           <li class="search">
-            <a class="" href="/search_e" aria-label="Search this site">
+            <a
+              class=""
+              href="/web/20241210042432/https://www.psd401.net/search_e"
+              aria-label="Search this site"
+            >
               <div class="ss-site-header-main-link-title">
                 <span
                   ><svg
@@ -2132,27 +2216,43 @@
         <div class="ss-site-header-main-nav ss-site-header-main-nav-contained">
           <ul class="ss-site-header-page-links nav">
             <li class="top-nav">
-              <a class="top-nav-link" href="/home" target="_self"
+              <a
+                class="top-nav-link"
+                href="/web/20241210042432/https://www.psd401.net/home"
+                target="_self"
                 ><span>Home</span></a
               >
             </li>
             <li class="top-nav">
-              <a class="has-submenu top-nav-link" href="/22359_1" target="_self"
+              <a
+                class="has-submenu top-nav-link"
+                href="/web/20241210042432/https://www.psd401.net/22359_1"
+                target="_self"
                 ><span>Our District</span></a
               >
               <ul class="dropdown-menu sm-nowrap">
                 <li>
-                  <a href="/strategicplan" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/strategicplan"
+                    class=""
+                    target="_self"
                     >Strategic Plan</a
                   >
                 </li>
                 <li>
-                  <a href="/superintendent" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/superintendent"
+                    class=""
+                    target="_self"
                     >Our Superintendent</a
                   >
                 </li>
                 <li>
-                  <a href="/75640_2" class="has-submenu" target="_self">
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/75640_2"
+                    class="has-submenu"
+                    target="_self"
+                  >
                     <div>
                       <span>Board of Directors</span>
                       <svg
@@ -2172,14 +2272,21 @@
                   ></a>
                   <ul class="dropdown-menu sm-nowrap">
                     <li>
-                      <a href="/boardpolicies" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/boardpolicies"
+                        class=""
+                        target="_self"
                         >Board Policies And Procedures</a
                       >
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <a href="/75641_2" class="has-submenu" target="_self">
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/75641_2"
+                    class="has-submenu"
+                    target="_self"
+                  >
                     <div>
                       <span>News and Updates</span>
                       <svg
@@ -2199,17 +2306,29 @@
                   ></a>
                   <ul class="dropdown-menu sm-nowrap">
                     <li>
-                      <a href="/newsroom" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/newsroom"
+                        class=""
+                        target="_self"
                         >Newsroom and Media</a
                       >
                     </li>
                     <li>
-                      <a href="/news" class="" target="_self">News</a>
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/news"
+                        class=""
+                        target="_self"
+                        >News</a
+                      >
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <a href="/75642_2" class="has-submenu" target="_self">
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/75642_2"
+                    class="has-submenu"
+                    target="_self"
+                  >
                     <div>
                       <span>Departments</span>
                       <svg
@@ -2229,47 +2348,75 @@
                   ></a>
                   <ul class="dropdown-menu sm-nowrap">
                     <li>
-                      <a href="/61580_3" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/61580_3"
+                        class=""
+                        target="_self"
                         >Business and Finance</a
                       >
                     </li>
                     <li>
-                      <a href="/63418_3" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/63418_3"
+                        class=""
+                        target="_self"
                         >Capital Projects and Maintenance</a
                       >
                     </li>
                     <li>
-                      <a href="/communications" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/communications"
+                        class=""
+                        target="_self"
                         >Communications</a
                       >
                     </li>
                     <li>
-                      <a href="/63645_3" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/63645_3"
+                        class=""
+                        target="_self"
                         >Employee Support Services</a
                       >
                     </li>
                     <li>
-                      <a href="/nutritionservices" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/nutritionservices"
+                        class=""
+                        target="_self"
                         >Nutrition Services</a
                       >
                     </li>
                     <li>
-                      <a href="/safetyandsecurity" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/safetyandsecurity"
+                        class=""
+                        target="_self"
                         >Safety and Security</a
                       >
                     </li>
                     <li>
-                      <a href="/studentservices" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/studentservices"
+                        class=""
+                        target="_self"
                         >Student Services</a
                       >
                     </li>
                     <li>
-                      <a href="/teachingandlearning" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/teachingandlearning"
+                        class=""
+                        target="_self"
                         >Teaching and Learning</a
                       >
                     </li>
                     <li>
-                      <a href="/63955_3" class="has-submenu" target="_self">
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/63955_3"
+                        class="has-submenu"
+                        target="_self"
+                      >
                         <div>
                           <span>Technology</span>
                           <svg
@@ -2289,86 +2436,147 @@
                       ></a>
                       <ul class="dropdown-menu sm-nowrap">
                         <li>
-                          <a href="/ai" class="" target="_self"
+                          <a
+                            href="/web/20241210042432/https://www.psd401.net/ai"
+                            class=""
+                            target="_self"
                             >Artificial Intelligence</a
                           >
                         </li>
                         <li>
-                          <a href="/digitalwellness" class="" target="_self"
+                          <a
+                            href="/web/20241210042432/https://www.psd401.net/digitalwellness"
+                            class=""
+                            target="_self"
                             >Digital Wellness</a
                           >
                         </li>
                         <li>
-                          <a href="/techsupport" class="" target="_self"
+                          <a
+                            href="/web/20241210042432/https://www.psd401.net/20064_4"
+                            class=""
+                            target="_self"
                             >Technology Support</a
                           >
                         </li>
                       </ul>
                     </li>
                     <li>
-                      <a href="/transportation" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/transportation"
+                        class=""
+                        target="_self"
                         >Transportation</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/activitiesandathletics"
+                        class=""
+                        target="_self"
+                        >Activities and Athletics</a
                       >
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <a href="/backtoschool" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/backtoschool"
+                    class=""
+                    target="_self"
                     >Back to School Guide</a
                   >
                 </li>
                 <li>
-                  <a href="/calendar" class="" target="_self">Calendar</a>
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/calendar"
+                    class=""
+                    target="_self"
+                    >Calendar</a
+                  >
                 </li>
                 <li>
-                  <a href="/79885_2" class="" target="_self">Emergency Info</a>
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/79885_2"
+                    class=""
+                    target="_self"
+                    >Emergency Info</a
+                  >
                 </li>
                 <li>
-                  <a href="/studentrights" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/studentrights"
+                    class=""
+                    target="_self"
                     >Student Rights, Legal Notices, and Forms</a
                   >
                 </li>
               </ul>
             </li>
             <li class="top-nav">
-              <a class="has-submenu top-nav-link" href="/22360_1" target="_self"
+              <a
+                class="has-submenu top-nav-link"
+                href="/web/20241210042432/https://www.psd401.net/22360_1"
+                target="_self"
                 ><span>Enrollment</span></a
               >
               <ul class="dropdown-menu sm-nowrap">
                 <li>
-                  <a href="/enrollment" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/enrollment"
+                    class=""
+                    target="_self"
                     >New Student Enrollment</a
                   >
                 </li>
                 <li>
-                  <a href="/homebasedinstruction" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/homebasedinstruction"
+                    class=""
+                    target="_self"
                     >Home Based Instruction</a
                   >
                 </li>
                 <li>
-                  <a href="/studenttransfers" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/studenttransfers"
+                    class=""
+                    target="_self"
                     >Student Transfers</a
                   >
                 </li>
                 <li>
-                  <a href="/75658_2" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/75658_2"
+                    class=""
+                    target="_self"
                     >Preschool and Transitional Kindergarten</a
                   >
                 </li>
               </ul>
             </li>
             <li class="top-nav">
-              <a class="has-submenu top-nav-link" href="/22361_1" target="_self"
+              <a
+                class="has-submenu top-nav-link"
+                href="/web/20241210042432/https://www.psd401.net/22361_1"
+                target="_self"
                 ><span>Academics</span></a
               >
               <ul class="dropdown-menu sm-nowrap">
                 <li>
-                  <a href="/102981_2" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/102981_2"
+                    class=""
+                    target="_self"
                     >Teaching and Learning</a
                   >
                 </li>
                 <li>
-                  <a href="/103003_2" class="has-submenu" target="_self">
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/103003_2"
+                    class="has-submenu"
+                    target="_self"
+                  >
                     <div>
                       <span>Student Services</span>
                       <svg
@@ -2388,89 +2596,93 @@
                   ></a>
                   <ul class="dropdown-menu sm-nowrap">
                     <li>
-                      <a href="/section504" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/section504"
+                        class=""
+                        target="_self"
                         >Section 504</a
                       >
                     </li>
                     <li>
                       <a
-                        href="/preschoolandearlylearning"
+                        href="/web/20241210042432/https://www.psd401.net/preschoolandearlylearning"
                         class=""
                         target="_self"
                         >Preschool and Early Learning</a
                       >
                     </li>
                     <li>
-                      <a href="/70611_3" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/70611_3"
+                        class=""
+                        target="_self"
                         >Highly Capable</a
                       >
                     </li>
                     <li>
-                      <a href="/70613_3" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/70613_3"
+                        class=""
+                        target="_self"
                         >Multilingual Learners</a
                       >
                     </li>
                     <li>
-                      <a href="/70615_3" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/70615_3"
+                        class=""
+                        target="_self"
                         >Homeless Assistance</a
                       >
                     </li>
                     <li>
-                      <a href="/70620_3" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/70620_3"
+                        class=""
+                        target="_self"
                         >Home Hospital</a
                       >
                     </li>
                     <li>
-                      <a href="/70622_3" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/70622_3"
+                        class=""
+                        target="_self"
                         >Native American Education</a
                       >
                     </li>
                     <li>
-                      <a href="/70625_3" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/70625_3"
+                        class=""
+                        target="_self"
                         >Title I and Learning Assistance Program</a
                       >
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <a href="/75660_2" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/75660_2"
+                    class=""
+                    target="_self"
                     >Elementary Education</a
                   >
                 </li>
                 <li>
-                  <a href="/75663_2" class="has-submenu" target="_self">
-                    <div>
-                      <span>Secondary Education</span>
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="10"
-                        height="12"
-                        viewbox="0 0 10 12"
-                        fill="none"
-                      >
-                        <path
-                          d="M4 2L8 6L4 10"
-                          stroke="#333333"
-                          stroke-width="2.5"
-                          stroke-linecap="round"
-                        ></path>
-                      </svg></div
-                  ></a>
-                  <ul class="dropdown-menu sm-nowrap">
-                    <li>
-                      <a href="/collegeandcareer" class="" target="_self"
-                        >College and Career Services</a
-                      >
-                    </li>
-                    <li>
-                      <a href="/81278_3" class="" target="_blank"
-                        >High School and Beyond Planning</a
-                      >
-                    </li>
-                  </ul>
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/75663_2"
+                    class=""
+                    target="_self"
+                    >Secondary Education</a
+                  >
                 </li>
                 <li>
-                  <a href="/108452_2" class="has-submenu" target="_self">
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/108452_2"
+                    class="has-submenu"
+                    target="_self"
+                  >
                     <div>
                       <span>Career and Technical Education</span>
                       <svg
@@ -2490,7 +2702,11 @@
                   ></a>
                   <ul class="dropdown-menu sm-nowrap">
                     <li>
-                      <a href="/74512_3" class="has-submenu" target="_self">
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/74512_3"
+                        class="has-submenu"
+                        target="_self"
+                      >
                         <div>
                           <span>Aviation Academy</span>
                           <svg
@@ -2510,14 +2726,21 @@
                       ></a>
                       <ul class="dropdown-menu sm-nowrap">
                         <li>
-                          <a href="/aviationenrollment" class="" target="_self"
+                          <a
+                            href="/web/20241210042432/https://www.psd401.net/aviationenrollment"
+                            class=""
+                            target="_self"
                             >Aviation Lottery and Enrollment</a
                           >
                         </li>
                       </ul>
                     </li>
                     <li>
-                      <a href="/74519_3" class="has-submenu" target="_self">
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/74519_3"
+                        class="has-submenu"
+                        target="_self"
+                      >
                         <div>
                           <span>Health Sciences</span>
                           <svg
@@ -2537,7 +2760,10 @@
                       ></a>
                       <ul class="dropdown-menu sm-nowrap">
                         <li>
-                          <a href="/healthsciences" class="" target="_self"
+                          <a
+                            href="/web/20241210042432/https://www.psd401.net/healthsciences"
+                            class=""
+                            target="_self"
                             >Health Sciences Home</a
                           >
                         </li>
@@ -2546,35 +2772,61 @@
                   </ul>
                 </li>
                 <li>
-                  <a href="/curriculum" class="" target="_self">Curriculum</a>
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/curriculum"
+                    class=""
+                    target="_self"
+                    >Curriculum</a
+                  >
                 </li>
                 <li>
-                  <a href="/elacurriculum" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/elacurriculum"
+                    class=""
+                    target="_self"
                     >ELA Curriculum Adoption</a
                   >
                 </li>
                 <li>
-                  <a href="/mtss" class="" target="_self">MTSS</a>
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/mtss"
+                    class=""
+                    target="_self"
+                    >MTSS</a
+                  >
                 </li>
                 <li>
-                  <a href="/80639_2" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/80639_2"
+                    class=""
+                    target="_self"
                     >Special Education</a
                   >
                 </li>
                 <li>
-                  <a href="/schoolsupplies" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/schoolsupplies"
+                    class=""
+                    target="_self"
                     >School Supplies</a
                   >
                 </li>
               </ul>
             </li>
             <li class="top-nav">
-              <a class="has-submenu top-nav-link" href="/22362_1" target="_self"
+              <a
+                class="has-submenu top-nav-link"
+                href="/web/20241210042432/https://www.psd401.net/22362_1"
+                target="_self"
                 ><span>Student Resources</span></a
               >
               <ul class="dropdown-menu sm-nowrap">
                 <li>
-                  <a href="/75675_2" class="has-submenu" target="_self">
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/75675_2"
+                    class="has-submenu"
+                    target="_self"
+                  >
                     <div>
                       <span>Health and Wellness Services</span>
                       <svg
@@ -2594,82 +2846,127 @@
                   ></a>
                   <ul class="dropdown-menu sm-nowrap">
                     <li>
-                      <a href="/counseling" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/counseling"
+                        class=""
+                        target="_self"
                         >Counseling Program</a
                       >
                     </li>
                     <li>
-                      <a href="/healthservices" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/healthservices"
+                        class=""
+                        target="_self"
                         >Health Services</a
                       >
                     </li>
                     <li>
-                      <a href="/homelessassistance" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/homelessassistance"
+                        class=""
+                        target="_self"
                         >Homeless Assistance</a
                       >
                     </li>
                     <li>
-                      <a href="/homehospital" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/homehospital"
+                        class=""
+                        target="_self"
                         >Home Hospital</a
                       >
                     </li>
                     <li>
-                      <a href="/suicideprevention" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/suicideprevention"
+                        class=""
+                        target="_self"
                         >Suicide Prevention</a
                       >
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <a href="/75676_2" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/75676_2"
+                    class=""
+                    target="_self"
                     >Safety and Security</a
                   >
                 </li>
                 <li>
-                  <a href="/75678_2" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/75678_2"
+                    class=""
+                    target="_self"
                     >Technology Resources</a
                   >
                 </li>
                 <li>
-                  <a href="/75679_2" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/75679_2"
+                    class=""
+                    target="_self"
                     >School Transportation</a
                   >
                 </li>
                 <li>
-                  <a href="/75681_2" class="" target="_self">School Meals</a>
-                </li>
-                <li>
-                  <a href="/118395_2" class="" target="_self"
-                    >Activities and Athletics</a
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/75681_2"
+                    class=""
+                    target="_self"
+                    >School Meals</a
                   >
                 </li>
               </ul>
             </li>
             <li class="top-nav">
-              <a class="has-submenu top-nav-link" href="/22363_1" target="_self"
+              <a
+                class="has-submenu top-nav-link"
+                href="/web/20241210042432/https://www.psd401.net/22363_1"
+                target="_self"
                 ><span>Family and Community Resources</span></a
               >
               <ul class="dropdown-menu sm-nowrap">
                 <li>
-                  <a href="/81138_2" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/81138_2"
+                    class=""
+                    target="_self"
                     >Family Resources</a
                   >
                 </li>
                 <li>
-                  <a href="/handbook" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/handbook"
+                    class=""
+                    target="_self"
                     >Parent and Student Handbook</a
                   >
                 </li>
                 <li>
-                  <a href="/81139_2" class="" target="_self">Schoology</a>
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/81139_2"
+                    class=""
+                    target="_self"
+                    >Schoology</a
+                  >
                 </li>
                 <li>
-                  <a href="/childcare" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/childcare"
+                    class=""
+                    target="_self"
                     >At-School Child Care</a
                   >
                 </li>
                 <li>
-                  <a href="/75691_2" class="has-submenu" target="_self">
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/75691_2"
+                    class="has-submenu"
+                    target="_self"
+                  >
                     <div>
                       <span>Volunteering and Community Partnerships</span>
                       <svg
@@ -2689,32 +2986,53 @@
                   ></a>
                   <ul class="dropdown-menu sm-nowrap">
                     <li>
-                      <a href="/partnerships" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/partnerships"
+                        class=""
+                        target="_self"
                         >Community Partnership</a
                       >
                     </li>
                     <li>
-                      <a href="/flyers" class="" target="_self">Flyers</a>
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/flyers"
+                        class=""
+                        target="_self"
+                        >Flyers</a
+                      >
                     </li>
                     <li>
-                      <a href="/gifts" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/gifts"
+                        class=""
+                        target="_self"
                         >Gifts & Donations</a
                       >
                     </li>
                     <li>
-                      <a href="/volunteer" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/volunteer"
+                        class=""
+                        target="_self"
                         >Volunteering</a
                       >
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <a href="/facilityrentals" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/facilityrentals"
+                    class=""
+                    target="_self"
                     >Facility Rentals</a
                   >
                 </li>
                 <li>
-                  <a href="/95440_2" class="has-submenu" target="_self">
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/95440_2"
+                    class="has-submenu"
+                    target="_self"
+                  >
                     <div>
                       <span>Request and Report</span>
                       <svg
@@ -2734,29 +3052,45 @@
                   ></a>
                   <ul class="dropdown-menu sm-nowrap">
                     <li>
-                      <a href="/report" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/report"
+                        class=""
+                        target="_self"
                         >Report a Concern</a
                       >
                     </li>
                     <li>
-                      <a href="/65697_3" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/65697_3"
+                        class=""
+                        target="_self"
                         >Request Student Transcripts</a
                       >
                     </li>
                     <li>
-                      <a href="/65720_3" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/65720_3"
+                        class=""
+                        target="_self"
                         >Request Student Records</a
                       >
                     </li>
                     <li>
-                      <a href="/65722_3" class="" target="_self"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/65722_3"
+                        class=""
+                        target="_self"
                         >Public Records Request</a
                       >
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <a href="/104666_2" class="has-submenu" target="_self">
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/104666_2"
+                    class="has-submenu"
+                    target="_self"
+                  >
                     <div>
                       <span>Community Resources</span>
                       <svg
@@ -2776,38 +3110,58 @@
                   ></a>
                   <ul class="dropdown-menu sm-nowrap">
                     <li>
-                      <a href="/72097_3" class="" target="_blank"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/72097_3"
+                        class=""
+                        target="_blank"
                         >Washington State Department of Health Resources</a
                       >
                     </li>
                     <li>
-                      <a href="/72098_3" class="" target="_blank"
+                      <a
+                        href="/web/20241210042432/https://www.psd401.net/72098_3"
+                        class=""
+                        target="_blank"
                         >Gig Harbor and Key Peninsula Community Resources</a
                       >
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <a href="/parentsquare" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/parentsquare"
+                    class=""
+                    target="_self"
                     >ParentSquare</a
                   >
                 </li>
                 <li>
-                  <a href="/powerschoolparentportal" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/powerschoolparentportal"
+                    class=""
+                    target="_self"
                     >PowerSchool Parent Portal</a
                   >
                 </li>
                 <li>
-                  <a href="/radio" class="" target="_self">KGHP Radio</a>
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/radio"
+                    class=""
+                    target="_self"
+                    >KGHP Radio</a
+                  >
                 </li>
                 <li>
-                  <a href="/purplestar" class="" target="_self"
+                  <a
+                    href="/web/20241210042432/https://www.psd401.net/purplestar"
+                    class=""
+                    target="_self"
                     >Military Families Purple Star Program</a
                   >
                 </li>
                 <li>
                   <a
-                    href="/varsityletterincommunityservice"
+                    href="/web/20241210042432/https://www.psd401.net/varsityletterincommunityservice"
                     class=""
                     target="_self"
                     >Varsity Letter in Community Service</a
@@ -2816,7 +3170,10 @@
               </ul>
             </li>
             <li class="top-nav">
-              <a class="top-nav-link" href="/jobs" target="_self"
+              <a
+                class="top-nav-link"
+                href="/web/20241210042432/https://www.psd401.net/jobs"
+                target="_self"
                 ><span>Employment</span></a
               >
             </li>
@@ -2828,27 +3185,43 @@
       >
         <ul class="ss-site-header-page-links nav">
           <li class="top-nav">
-            <a class="top-nav-link" href="/home" target="_self"
+            <a
+              class="top-nav-link"
+              href="/web/20241210042432/https://www.psd401.net/home"
+              target="_self"
               ><span>Home</span></a
             >
           </li>
           <li class="top-nav">
-            <a class="has-submenu top-nav-link" href="/22359_1" target="_self"
+            <a
+              class="has-submenu top-nav-link"
+              href="/web/20241210042432/https://www.psd401.net/22359_1"
+              target="_self"
               ><span>Our District</span></a
             >
             <ul class="dropdown-menu sm-nowrap">
               <li>
-                <a href="/strategicplan" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/strategicplan"
+                  class=""
+                  target="_self"
                   >Strategic Plan</a
                 >
               </li>
               <li>
-                <a href="/superintendent" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/superintendent"
+                  class=""
+                  target="_self"
                   >Our Superintendent</a
                 >
               </li>
               <li>
-                <a href="/75640_2" class="has-submenu" target="_self">
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/75640_2"
+                  class="has-submenu"
+                  target="_self"
+                >
                   <div>
                     <span>Board of Directors</span>
                     <svg
@@ -2868,14 +3241,21 @@
                 ></a>
                 <ul class="dropdown-menu sm-nowrap">
                   <li>
-                    <a href="/boardpolicies" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/boardpolicies"
+                      class=""
+                      target="_self"
                       >Board Policies And Procedures</a
                     >
                   </li>
                 </ul>
               </li>
               <li>
-                <a href="/75641_2" class="has-submenu" target="_self">
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/75641_2"
+                  class="has-submenu"
+                  target="_self"
+                >
                   <div>
                     <span>News and Updates</span>
                     <svg
@@ -2895,17 +3275,29 @@
                 ></a>
                 <ul class="dropdown-menu sm-nowrap">
                   <li>
-                    <a href="/newsroom" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/newsroom"
+                      class=""
+                      target="_self"
                       >Newsroom and Media</a
                     >
                   </li>
                   <li>
-                    <a href="/news" class="" target="_self">News</a>
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/news"
+                      class=""
+                      target="_self"
+                      >News</a
+                    >
                   </li>
                 </ul>
               </li>
               <li>
-                <a href="/75642_2" class="has-submenu" target="_self">
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/75642_2"
+                  class="has-submenu"
+                  target="_self"
+                >
                   <div>
                     <span>Departments</span>
                     <svg
@@ -2925,47 +3317,75 @@
                 ></a>
                 <ul class="dropdown-menu sm-nowrap">
                   <li>
-                    <a href="/61580_3" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/61580_3"
+                      class=""
+                      target="_self"
                       >Business and Finance</a
                     >
                   </li>
                   <li>
-                    <a href="/63418_3" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/63418_3"
+                      class=""
+                      target="_self"
                       >Capital Projects and Maintenance</a
                     >
                   </li>
                   <li>
-                    <a href="/communications" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/communications"
+                      class=""
+                      target="_self"
                       >Communications</a
                     >
                   </li>
                   <li>
-                    <a href="/63645_3" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/63645_3"
+                      class=""
+                      target="_self"
                       >Employee Support Services</a
                     >
                   </li>
                   <li>
-                    <a href="/nutritionservices" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/nutritionservices"
+                      class=""
+                      target="_self"
                       >Nutrition Services</a
                     >
                   </li>
                   <li>
-                    <a href="/safetyandsecurity" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/safetyandsecurity"
+                      class=""
+                      target="_self"
                       >Safety and Security</a
                     >
                   </li>
                   <li>
-                    <a href="/studentservices" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/studentservices"
+                      class=""
+                      target="_self"
                       >Student Services</a
                     >
                   </li>
                   <li>
-                    <a href="/teachingandlearning" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/teachingandlearning"
+                      class=""
+                      target="_self"
                       >Teaching and Learning</a
                     >
                   </li>
                   <li>
-                    <a href="/63955_3" class="has-submenu" target="_self">
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/63955_3"
+                      class="has-submenu"
+                      target="_self"
+                    >
                       <div>
                         <span>Technology</span>
                         <svg
@@ -2985,86 +3405,147 @@
                     ></a>
                     <ul class="dropdown-menu sm-nowrap">
                       <li>
-                        <a href="/ai" class="" target="_self"
+                        <a
+                          href="/web/20241210042432/https://www.psd401.net/ai"
+                          class=""
+                          target="_self"
                           >Artificial Intelligence</a
                         >
                       </li>
                       <li>
-                        <a href="/digitalwellness" class="" target="_self"
+                        <a
+                          href="/web/20241210042432/https://www.psd401.net/digitalwellness"
+                          class=""
+                          target="_self"
                           >Digital Wellness</a
                         >
                       </li>
                       <li>
-                        <a href="/techsupport" class="" target="_self"
+                        <a
+                          href="/web/20241210042432/https://www.psd401.net/20064_4"
+                          class=""
+                          target="_self"
                           >Technology Support</a
                         >
                       </li>
                     </ul>
                   </li>
                   <li>
-                    <a href="/transportation" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/transportation"
+                      class=""
+                      target="_self"
                       >Transportation</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/activitiesandathletics"
+                      class=""
+                      target="_self"
+                      >Activities and Athletics</a
                     >
                   </li>
                 </ul>
               </li>
               <li>
-                <a href="/backtoschool" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/backtoschool"
+                  class=""
+                  target="_self"
                   >Back to School Guide</a
                 >
               </li>
               <li>
-                <a href="/calendar" class="" target="_self">Calendar</a>
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/calendar"
+                  class=""
+                  target="_self"
+                  >Calendar</a
+                >
               </li>
               <li>
-                <a href="/79885_2" class="" target="_self">Emergency Info</a>
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/79885_2"
+                  class=""
+                  target="_self"
+                  >Emergency Info</a
+                >
               </li>
               <li>
-                <a href="/studentrights" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/studentrights"
+                  class=""
+                  target="_self"
                   >Student Rights, Legal Notices, and Forms</a
                 >
               </li>
             </ul>
           </li>
           <li class="top-nav">
-            <a class="has-submenu top-nav-link" href="/22360_1" target="_self"
+            <a
+              class="has-submenu top-nav-link"
+              href="/web/20241210042432/https://www.psd401.net/22360_1"
+              target="_self"
               ><span>Enrollment</span></a
             >
             <ul class="dropdown-menu sm-nowrap">
               <li>
-                <a href="/enrollment" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/enrollment"
+                  class=""
+                  target="_self"
                   >New Student Enrollment</a
                 >
               </li>
               <li>
-                <a href="/homebasedinstruction" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/homebasedinstruction"
+                  class=""
+                  target="_self"
                   >Home Based Instruction</a
                 >
               </li>
               <li>
-                <a href="/studenttransfers" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/studenttransfers"
+                  class=""
+                  target="_self"
                   >Student Transfers</a
                 >
               </li>
               <li>
-                <a href="/75658_2" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/75658_2"
+                  class=""
+                  target="_self"
                   >Preschool and Transitional Kindergarten</a
                 >
               </li>
             </ul>
           </li>
           <li class="top-nav">
-            <a class="has-submenu top-nav-link" href="/22361_1" target="_self"
+            <a
+              class="has-submenu top-nav-link"
+              href="/web/20241210042432/https://www.psd401.net/22361_1"
+              target="_self"
               ><span>Academics</span></a
             >
             <ul class="dropdown-menu sm-nowrap">
               <li>
-                <a href="/102981_2" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/102981_2"
+                  class=""
+                  target="_self"
                   >Teaching and Learning</a
                 >
               </li>
               <li>
-                <a href="/103003_2" class="has-submenu" target="_self">
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/103003_2"
+                  class="has-submenu"
+                  target="_self"
+                >
                   <div>
                     <span>Student Services</span>
                     <svg
@@ -3084,84 +3565,93 @@
                 ></a>
                 <ul class="dropdown-menu sm-nowrap">
                   <li>
-                    <a href="/section504" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/section504"
+                      class=""
+                      target="_self"
                       >Section 504</a
                     >
                   </li>
                   <li>
-                    <a href="/preschoolandearlylearning" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/preschoolandearlylearning"
+                      class=""
+                      target="_self"
                       >Preschool and Early Learning</a
                     >
                   </li>
                   <li>
-                    <a href="/70611_3" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/70611_3"
+                      class=""
+                      target="_self"
                       >Highly Capable</a
                     >
                   </li>
                   <li>
-                    <a href="/70613_3" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/70613_3"
+                      class=""
+                      target="_self"
                       >Multilingual Learners</a
                     >
                   </li>
                   <li>
-                    <a href="/70615_3" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/70615_3"
+                      class=""
+                      target="_self"
                       >Homeless Assistance</a
                     >
                   </li>
                   <li>
-                    <a href="/70620_3" class="" target="_self">Home Hospital</a>
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/70620_3"
+                      class=""
+                      target="_self"
+                      >Home Hospital</a
+                    >
                   </li>
                   <li>
-                    <a href="/70622_3" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/70622_3"
+                      class=""
+                      target="_self"
                       >Native American Education</a
                     >
                   </li>
                   <li>
-                    <a href="/70625_3" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/70625_3"
+                      class=""
+                      target="_self"
                       >Title I and Learning Assistance Program</a
                     >
                   </li>
                 </ul>
               </li>
               <li>
-                <a href="/75660_2" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/75660_2"
+                  class=""
+                  target="_self"
                   >Elementary Education</a
                 >
               </li>
               <li>
-                <a href="/75663_2" class="has-submenu" target="_self">
-                  <div>
-                    <span>Secondary Education</span>
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      width="10"
-                      height="12"
-                      viewbox="0 0 10 12"
-                      fill="none"
-                    >
-                      <path
-                        d="M4 2L8 6L4 10"
-                        stroke="#333333"
-                        stroke-width="2.5"
-                        stroke-linecap="round"
-                      ></path>
-                    </svg></div
-                ></a>
-                <ul class="dropdown-menu sm-nowrap">
-                  <li>
-                    <a href="/collegeandcareer" class="" target="_self"
-                      >College and Career Services</a
-                    >
-                  </li>
-                  <li>
-                    <a href="/81278_3" class="" target="_blank"
-                      >High School and Beyond Planning</a
-                    >
-                  </li>
-                </ul>
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/75663_2"
+                  class=""
+                  target="_self"
+                  >Secondary Education</a
+                >
               </li>
               <li>
-                <a href="/108452_2" class="has-submenu" target="_self">
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/108452_2"
+                  class="has-submenu"
+                  target="_self"
+                >
                   <div>
                     <span>Career and Technical Education</span>
                     <svg
@@ -3181,7 +3671,11 @@
                 ></a>
                 <ul class="dropdown-menu sm-nowrap">
                   <li>
-                    <a href="/74512_3" class="has-submenu" target="_self">
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/74512_3"
+                      class="has-submenu"
+                      target="_self"
+                    >
                       <div>
                         <span>Aviation Academy</span>
                         <svg
@@ -3201,14 +3695,21 @@
                     ></a>
                     <ul class="dropdown-menu sm-nowrap">
                       <li>
-                        <a href="/aviationenrollment" class="" target="_self"
+                        <a
+                          href="/web/20241210042432/https://www.psd401.net/aviationenrollment"
+                          class=""
+                          target="_self"
                           >Aviation Lottery and Enrollment</a
                         >
                       </li>
                     </ul>
                   </li>
                   <li>
-                    <a href="/74519_3" class="has-submenu" target="_self">
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/74519_3"
+                      class="has-submenu"
+                      target="_self"
+                    >
                       <div>
                         <span>Health Sciences</span>
                         <svg
@@ -3228,7 +3729,10 @@
                     ></a>
                     <ul class="dropdown-menu sm-nowrap">
                       <li>
-                        <a href="/healthsciences" class="" target="_self"
+                        <a
+                          href="/web/20241210042432/https://www.psd401.net/healthsciences"
+                          class=""
+                          target="_self"
                           >Health Sciences Home</a
                         >
                       </li>
@@ -3237,33 +3741,61 @@
                 </ul>
               </li>
               <li>
-                <a href="/curriculum" class="" target="_self">Curriculum</a>
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/curriculum"
+                  class=""
+                  target="_self"
+                  >Curriculum</a
+                >
               </li>
               <li>
-                <a href="/elacurriculum" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/elacurriculum"
+                  class=""
+                  target="_self"
                   >ELA Curriculum Adoption</a
                 >
               </li>
               <li>
-                <a href="/mtss" class="" target="_self">MTSS</a>
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/mtss"
+                  class=""
+                  target="_self"
+                  >MTSS</a
+                >
               </li>
               <li>
-                <a href="/80639_2" class="" target="_self">Special Education</a>
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/80639_2"
+                  class=""
+                  target="_self"
+                  >Special Education</a
+                >
               </li>
               <li>
-                <a href="/schoolsupplies" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/schoolsupplies"
+                  class=""
+                  target="_self"
                   >School Supplies</a
                 >
               </li>
             </ul>
           </li>
           <li class="top-nav">
-            <a class="has-submenu top-nav-link" href="/22362_1" target="_self"
+            <a
+              class="has-submenu top-nav-link"
+              href="/web/20241210042432/https://www.psd401.net/22362_1"
+              target="_self"
               ><span>Student Resources</span></a
             >
             <ul class="dropdown-menu sm-nowrap">
               <li>
-                <a href="/75675_2" class="has-submenu" target="_self">
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/75675_2"
+                  class="has-submenu"
+                  target="_self"
+                >
                   <div>
                     <span>Health and Wellness Services</span>
                     <svg
@@ -3283,80 +3815,127 @@
                 ></a>
                 <ul class="dropdown-menu sm-nowrap">
                   <li>
-                    <a href="/counseling" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/counseling"
+                      class=""
+                      target="_self"
                       >Counseling Program</a
                     >
                   </li>
                   <li>
-                    <a href="/healthservices" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/healthservices"
+                      class=""
+                      target="_self"
                       >Health Services</a
                     >
                   </li>
                   <li>
-                    <a href="/homelessassistance" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/homelessassistance"
+                      class=""
+                      target="_self"
                       >Homeless Assistance</a
                     >
                   </li>
                   <li>
-                    <a href="/homehospital" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/homehospital"
+                      class=""
+                      target="_self"
                       >Home Hospital</a
                     >
                   </li>
                   <li>
-                    <a href="/suicideprevention" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/suicideprevention"
+                      class=""
+                      target="_self"
                       >Suicide Prevention</a
                     >
                   </li>
                 </ul>
               </li>
               <li>
-                <a href="/75676_2" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/75676_2"
+                  class=""
+                  target="_self"
                   >Safety and Security</a
                 >
               </li>
               <li>
-                <a href="/75678_2" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/75678_2"
+                  class=""
+                  target="_self"
                   >Technology Resources</a
                 >
               </li>
               <li>
-                <a href="/75679_2" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/75679_2"
+                  class=""
+                  target="_self"
                   >School Transportation</a
                 >
               </li>
               <li>
-                <a href="/75681_2" class="" target="_self">School Meals</a>
-              </li>
-              <li>
-                <a href="/118395_2" class="" target="_self"
-                  >Activities and Athletics</a
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/75681_2"
+                  class=""
+                  target="_self"
+                  >School Meals</a
                 >
               </li>
             </ul>
           </li>
           <li class="top-nav">
-            <a class="has-submenu top-nav-link" href="/22363_1" target="_self"
+            <a
+              class="has-submenu top-nav-link"
+              href="/web/20241210042432/https://www.psd401.net/22363_1"
+              target="_self"
               ><span>Family and Community Resources</span></a
             >
             <ul class="dropdown-menu sm-nowrap">
               <li>
-                <a href="/81138_2" class="" target="_self">Family Resources</a>
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/81138_2"
+                  class=""
+                  target="_self"
+                  >Family Resources</a
+                >
               </li>
               <li>
-                <a href="/handbook" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/handbook"
+                  class=""
+                  target="_self"
                   >Parent and Student Handbook</a
                 >
               </li>
               <li>
-                <a href="/81139_2" class="" target="_self">Schoology</a>
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/81139_2"
+                  class=""
+                  target="_self"
+                  >Schoology</a
+                >
               </li>
               <li>
-                <a href="/childcare" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/childcare"
+                  class=""
+                  target="_self"
                   >At-School Child Care</a
                 >
               </li>
               <li>
-                <a href="/75691_2" class="has-submenu" target="_self">
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/75691_2"
+                  class="has-submenu"
+                  target="_self"
+                >
                   <div>
                     <span>Volunteering and Community Partnerships</span>
                     <svg
@@ -3376,32 +3955,53 @@
                 ></a>
                 <ul class="dropdown-menu sm-nowrap">
                   <li>
-                    <a href="/partnerships" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/partnerships"
+                      class=""
+                      target="_self"
                       >Community Partnership</a
                     >
                   </li>
                   <li>
-                    <a href="/flyers" class="" target="_self">Flyers</a>
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/flyers"
+                      class=""
+                      target="_self"
+                      >Flyers</a
+                    >
                   </li>
                   <li>
-                    <a href="/gifts" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/gifts"
+                      class=""
+                      target="_self"
                       >Gifts & Donations</a
                     >
                   </li>
                   <li>
-                    <a href="/volunteer" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/volunteer"
+                      class=""
+                      target="_self"
                       >Volunteering</a
                     >
                   </li>
                 </ul>
               </li>
               <li>
-                <a href="/facilityrentals" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/facilityrentals"
+                  class=""
+                  target="_self"
                   >Facility Rentals</a
                 >
               </li>
               <li>
-                <a href="/95440_2" class="has-submenu" target="_self">
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/95440_2"
+                  class="has-submenu"
+                  target="_self"
+                >
                   <div>
                     <span>Request and Report</span>
                     <svg
@@ -3421,29 +4021,45 @@
                 ></a>
                 <ul class="dropdown-menu sm-nowrap">
                   <li>
-                    <a href="/report" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/report"
+                      class=""
+                      target="_self"
                       >Report a Concern</a
                     >
                   </li>
                   <li>
-                    <a href="/65697_3" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/65697_3"
+                      class=""
+                      target="_self"
                       >Request Student Transcripts</a
                     >
                   </li>
                   <li>
-                    <a href="/65720_3" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/65720_3"
+                      class=""
+                      target="_self"
                       >Request Student Records</a
                     >
                   </li>
                   <li>
-                    <a href="/65722_3" class="" target="_self"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/65722_3"
+                      class=""
+                      target="_self"
                       >Public Records Request</a
                     >
                   </li>
                 </ul>
               </li>
               <li>
-                <a href="/104666_2" class="has-submenu" target="_self">
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/104666_2"
+                  class="has-submenu"
+                  target="_self"
+                >
                   <div>
                     <span>Community Resources</span>
                     <svg
@@ -3463,36 +4079,58 @@
                 ></a>
                 <ul class="dropdown-menu sm-nowrap">
                   <li>
-                    <a href="/72097_3" class="" target="_blank"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/72097_3"
+                      class=""
+                      target="_blank"
                       >Washington State Department of Health Resources</a
                     >
                   </li>
                   <li>
-                    <a href="/72098_3" class="" target="_blank"
+                    <a
+                      href="/web/20241210042432/https://www.psd401.net/72098_3"
+                      class=""
+                      target="_blank"
                       >Gig Harbor and Key Peninsula Community Resources</a
                     >
                   </li>
                 </ul>
               </li>
               <li>
-                <a href="/parentsquare" class="" target="_self">ParentSquare</a>
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/parentsquare"
+                  class=""
+                  target="_self"
+                  >ParentSquare</a
+                >
               </li>
               <li>
-                <a href="/powerschoolparentportal" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/powerschoolparentportal"
+                  class=""
+                  target="_self"
                   >PowerSchool Parent Portal</a
                 >
               </li>
               <li>
-                <a href="/radio" class="" target="_self">KGHP Radio</a>
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/radio"
+                  class=""
+                  target="_self"
+                  >KGHP Radio</a
+                >
               </li>
               <li>
-                <a href="/purplestar" class="" target="_self"
+                <a
+                  href="/web/20241210042432/https://www.psd401.net/purplestar"
+                  class=""
+                  target="_self"
                   >Military Families Purple Star Program</a
                 >
               </li>
               <li>
                 <a
-                  href="/varsityletterincommunityservice"
+                  href="/web/20241210042432/https://www.psd401.net/varsityletterincommunityservice"
                   class=""
                   target="_self"
                   >Varsity Letter in Community Service</a
@@ -3501,16 +4139,16 @@
             </ul>
           </li>
           <li class="top-nav">
-            <a class="top-nav-link" href="/jobs" target="_self"
+            <a
+              class="top-nav-link"
+              href="/web/20241210042432/https://www.psd401.net/jobs"
+              target="_self"
               ><span>Employment</span></a
             >
           </li>
         </ul>
       </div>
-      <div
-        id="ss-schools-modal"
-        class="modal ss-lightbox-modal ss-lightbox-modal-default"
-      >
+      <div id="ss-schools-modal" class="modal ss-lightbox-modal">
         <div class="ss-lightbox-modal-content-wrap">
           <div class="ss-lightbox-modal-content">
             <button class="ss-button ss-close-modal" data-dismiss="modal">
@@ -3538,15 +4176,25 @@
               >
                 <ul class="ss-schools-list">
                   <li>
-                    <a href="https://ghh.psd401.net">Gig Harbor High School</a>
-                  </li>
-                  <li>
-                    <a href="https://hbh.psd401.net"
-                      >Henderson Bay High School</a
+                    <a
+                      href="https://web.archive.org/web/20241210042432/https://ghh.psd401.net/"
+                    >
+                      Gig Harbor High School</a
                     >
                   </li>
                   <li>
-                    <a href="https://phs.psd401.net">Peninsula High School</a>
+                    <a
+                      href="https://web.archive.org/web/20241210042432/https://hbh.psd401.net/"
+                    >
+                      Henderson Bay High School</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      href="https://web.archive.org/web/20241210042432/https://phs.psd401.net/"
+                    >
+                      Peninsula High School</a
+                    >
                   </li>
                 </ul>
               </div>
@@ -3567,20 +4215,32 @@
               >
                 <ul class="ss-schools-list">
                   <li>
-                    <a href="https://gms.psd401.net">Goodman Middle School</a>
-                  </li>
-                  <li>
-                    <a href="https://hrm.psd401.net"
-                      >Harbor Ridge Middle School</a
+                    <a
+                      href="https://web.archive.org/web/20241210042432/https://gms.psd401.net/"
+                    >
+                      Goodman Middle School</a
                     >
                   </li>
                   <li>
-                    <a href="https://kpm.psd401.net"
-                      >Key Peninsula Middle School</a
+                    <a
+                      href="https://web.archive.org/web/20241210042432/https://hrm.psd401.net/"
+                    >
+                      Harbor Ridge Middle School</a
                     >
                   </li>
                   <li>
-                    <a href="https://kms.psd401.net">Kopachuck Middle School</a>
+                    <a
+                      href="https://web.archive.org/web/20241210042432/https://kpm.psd401.net/"
+                    >
+                      Key Peninsula Middle School</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      href="https://web.archive.org/web/20241210042432/https://kms.psd401.net/"
+                    >
+                      Kopachuck Middle School</a
+                    >
                   </li>
                 </ul>
               </div>
@@ -3601,51 +4261,73 @@
               >
                 <ul class="ss-schools-list">
                   <li>
-                    <a href="https://aes.psd401.net"
-                      >Artondale Elementary School</a
+                    <a
+                      href="https://web.archive.org/web/20241210042432/https://aes.psd401.net/"
+                    >
+                      Artondale Elementary School</a
                     >
                   </li>
                   <li>
-                    <a href="https://des.psd401.net"
-                      >Discovery Elementary School</a
+                    <a
+                      href="https://web.archive.org/web/20241210042432/https://des.psd401.net/"
+                    >
+                      Discovery Elementary School</a
                     >
                   </li>
                   <li>
-                    <a href="https://ees.psd401.net"
-                      >Evergreen Elementary School</a
+                    <a
+                      href="https://web.archive.org/web/20241210042432/https://ees.psd401.net/"
+                    >
+                      Evergreen Elementary School</a
                     >
                   </li>
                   <li>
-                    <a href="https://hhe.psd401.net"
-                      >Harbor Heights Elementary School</a
+                    <a
+                      href="https://web.archive.org/web/20241210042432/https://hhe.psd401.net/"
+                    >
+                      Harbor Heights Elementary School</a
                     >
                   </li>
                   <li>
-                    <a href="https://mes.psd401.net"
-                      >Minter Creek Elementary School</a
+                    <a
+                      href="https://web.archive.org/web/20241210042432/https://mes.psd401.net/"
+                    >
+                      Minter Creek Elementary School</a
                     >
                   </li>
                   <li>
-                    <a href="https://pie.psd401.net"
-                      >Pioneer Elementary School</a
+                    <a
+                      href="https://web.archive.org/web/20241210042432/https://pie.psd401.net/"
+                    >
+                      Pioneer Elementary School</a
                     >
                   </li>
                   <li>
-                    <a href="https://pes.psd401.net">Purdy Elementary School</a>
-                  </li>
-                  <li>
-                    <a href="https://swe.psd401.net"
-                      >Swift Water Elementary School</a
+                    <a
+                      href="https://web.archive.org/web/20241210042432/https://pes.psd401.net/"
+                    >
+                      Purdy Elementary School</a
                     >
                   </li>
                   <li>
-                    <a href="https://ves.psd401.net"
-                      >Vaughn Elementary School</a
+                    <a
+                      href="https://web.archive.org/web/20241210042432/https://swe.psd401.net/"
+                    >
+                      Swift Water Elementary School</a
                     >
                   </li>
                   <li>
-                    <a href="https://vge.psd401.net"
-                      >Voyager Elementary School</a
+                    <a
+                      href="https://web.archive.org/web/20241210042432/https://ves.psd401.net/"
+                    >
+                      Vaughn Elementary School</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      href="https://web.archive.org/web/20241210042432/https://vge.psd401.net/"
+                    >
+                      Voyager Elementary School</a
                     >
                   </li>
                 </ul>
@@ -3654,21 +4336,7 @@
           </div>
         </div>
       </div>
-      <script>
-        $(document).ready(() => {
-          const lightboxModal = $("#ss-schools-modal");
-          lightboxModal.on("show.bs.modal", function (e) {
-            $("html").addClass("modal-open");
-          });
-          lightboxModal.on("hide.bs.modal", function (e) {
-            $("html").removeClass("modal-open");
-          });
-        });
-      </script>
-      <div
-        id="ss-popular-links-modal"
-        class="modal ss-lightbox-modal ss-lightbox-modal-default"
-      >
+      <div id="ss-popular-links-modal" class="modal ss-lightbox-modal">
         <div class="ss-lightbox-modal-content-wrap">
           <div class="ss-lightbox-modal-content">
             <button class="ss-button ss-close-modal" data-dismiss="modal">
@@ -3684,24 +4352,38 @@
               </h2>
               <ul class="ss-popular-links-list">
                 <li>
-                  <a href="https://www.psd401.net/22366">Families</a>
-                </li>
-                <li>
-                  <a href="https://www.psd401.net/22367">Schoology</a>
-                </li>
-                <li>
-                  <a href="https://launchpad.classlink.com/peninsula">My PSD</a>
+                  <a
+                    href="https://web.archive.org/web/20241210042432/https://www.psd401.net/22366"
+                  >
+                    Families</a
+                  >
                 </li>
                 <li>
                   <a
-                    href="https://www2.wrdc.wa-k12.net/scripts/cgiip.exe/WService=wpeninss71/seplog01.w"
+                    href="https://web.archive.org/web/20241210042432/https://www.psd401.net/22367"
+                  >
+                    Schoology</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="https://web.archive.org/web/20241210042432/https://launchpad.classlink.com/peninsula"
+                  >
+                    My PSD</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="https://web.archive.org/web/20241210042432/https://www2.wrdc.wa-k12.net/scripts/cgiip.exe/WService=wpeninss71/seplog01.w"
                   >
                     Skyward</a
                   >
                 </li>
                 <li>
-                  <a href="https://powerschool.psd401.net/public/"
-                    >PowerSchool Parent Portal Login</a
+                  <a
+                    href="https://web.archive.org/web/20241210042432/https://powerschool.psd401.net/public/"
+                  >
+                    PowerSchool Parent Portal Login</a
                   >
                 </li>
               </ul>
@@ -3709,20 +4391,9 @@
           </div>
         </div>
       </div>
-      <script>
-        $(document).ready(() => {
-          const lightboxModal = $("#ss-popular-links-modal");
-          lightboxModal.on("show.bs.modal", function (e) {
-            $("html").addClass("modal-open");
-          });
-          lightboxModal.on("hide.bs.modal", function (e) {
-            $("html").removeClass("modal-open");
-          });
-        });
-      </script>
       <div
         id="ss-header-mobile-menu"
-        class="modal ss-lightbox-modal ss-lightbox-modal-default fade come-from-modal right"
+        class="modal ss-lightbox-modal fade come-from-modal right"
       >
         <div class="ss-lightbox-modal-content-wrap">
           <div class="ss-lightbox-modal-content ss-lightbox-fullscreen">
@@ -3738,8 +4409,11 @@
                 <li
                   class="ss-mobile-menu-heading ss-mobile-menu-search ss-mobile-menu-level-1"
                 >
-                  <a class="ss-mobile-menu-link" href="/search_e"
-                    ><svg
+                  <a
+                    class="ss-mobile-menu-link"
+                    href="/web/20241210042432/https://www.psd401.net/search_e"
+                  >
+                    <svg
                       class="search-svg"
                       xmlns="http://www.w3.org/2000/svg"
                       width="20"
@@ -3765,7 +4439,11 @@
                   >
                 </li>
                 <li class="ss-mobile-menu-heading ss-mobile-menu-level-1">
-                  <a class="ss-mobile-menu-link" href="/home">Home</a>
+                  <a
+                    class="ss-mobile-menu-link"
+                    href="/web/20241210042432/https://www.psd401.net/home"
+                    >Home</a
+                  >
                 </li>
                 <li class="ss-mobile-menu-level-1">
                   <h2 class="ss-mobile-menu-heading">
@@ -3788,13 +4466,19 @@
                   >
                     <ul class="ss-mobile-menu-list">
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/strategicplan"
-                          >Strategic Plan</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/strategicplan"
+                        >
+                          Strategic Plan</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/superintendent"
-                          >Our Superintendent</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/superintendent"
+                        >
+                          Our Superintendent</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
@@ -3820,8 +4504,9 @@
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="/boardpolicies"
-                                >Board Policies And Procedures</a
+                                href="/web/20241210042432/https://www.psd401.net/boardpolicies"
+                              >
+                                Board Policies And Procedures</a
                               >
                             </li>
                           </ul>
@@ -3848,13 +4533,19 @@
                         >
                           <ul class="ss-mobile-menu-list">
                             <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/newsroom"
-                                >Newsroom and Media</a
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/newsroom"
+                              >
+                                Newsroom and Media</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/news"
-                                >News</a
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/news"
+                              >
+                                News</a
                               >
                             </li>
                           </ul>
@@ -3881,53 +4572,67 @@
                         >
                           <ul class="ss-mobile-menu-list">
                             <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/61580_3"
-                                >Business and Finance</a
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/61580_3"
                               >
-                            </li>
-                            <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/63418_3"
-                                >Capital Projects and Maintenance</a
+                                Business and Finance</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="/communications"
-                                >Communications</a
+                                href="/web/20241210042432/https://www.psd401.net/63418_3"
                               >
-                            </li>
-                            <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/63645_3"
-                                >Employee Support Services</a
+                                Capital Projects and Maintenance</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="/nutritionservices"
-                                >Nutrition Services</a
+                                href="/web/20241210042432/https://www.psd401.net/communications"
+                              >
+                                Communications</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="/safetyandsecurity"
-                                >Safety and Security</a
+                                href="/web/20241210042432/https://www.psd401.net/63645_3"
+                              >
+                                Employee Support Services</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="/studentservices"
-                                >Student Services</a
+                                href="/web/20241210042432/https://www.psd401.net/nutritionservices"
+                              >
+                                Nutrition Services</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="/teachingandlearning"
-                                >Teaching and Learning</a
+                                href="/web/20241210042432/https://www.psd401.net/safetyandsecurity"
+                              >
+                                Safety and Security</a
+                              >
+                            </li>
+                            <li class="ss-mobile-menu-level-3">
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/studentservices"
+                              >
+                                Student Services</a
+                              >
+                            </li>
+                            <li class="ss-mobile-menu-level-3">
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/teachingandlearning"
+                              >
+                                Teaching and Learning</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
@@ -3951,22 +4656,27 @@
                               >
                                 <ul class="ss-mobile-menu-list">
                                   <li class="ss-mobile-menu-level-4">
-                                    <a class="ss-mobile-menu-link" href="/ai"
-                                      >Artificial Intelligence</a
+                                    <a
+                                      class="ss-mobile-menu-link"
+                                      href="/web/20241210042432/https://www.psd401.net/ai"
+                                    >
+                                      Artificial Intelligence</a
                                     >
                                   </li>
                                   <li class="ss-mobile-menu-level-4">
                                     <a
                                       class="ss-mobile-menu-link"
-                                      href="/digitalwellness"
-                                      >Digital Wellness</a
+                                      href="/web/20241210042432/https://www.psd401.net/digitalwellness"
+                                    >
+                                      Digital Wellness</a
                                     >
                                   </li>
                                   <li class="ss-mobile-menu-level-4">
                                     <a
                                       class="ss-mobile-menu-link"
-                                      href="/techsupport"
-                                      >Technology Support</a
+                                      href="/web/20241210042432/https://www.psd401.net/20064_4"
+                                    >
+                                      Technology Support</a
                                     >
                                   </li>
                                 </ul>
@@ -3975,31 +4685,52 @@
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="/transportation"
-                                >Transportation</a
+                                href="/web/20241210042432/https://www.psd401.net/transportation"
+                              >
+                                Transportation</a
+                              >
+                            </li>
+                            <li class="ss-mobile-menu-level-3">
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/activitiesandathletics"
+                              >
+                                Activities and Athletics</a
                               >
                             </li>
                           </ul>
                         </div>
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/backtoschool"
-                          >Back to School Guide</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/backtoschool"
+                        >
+                          Back to School Guide</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/calendar"
-                          >Calendar</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/calendar"
+                        >
+                          Calendar</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/79885_2"
-                          >Emergency Info</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/79885_2"
+                        >
+                          Emergency Info</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/studentrights"
-                          >Student Rights, Legal Notices, and Forms</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/studentrights"
+                        >
+                          Student Rights, Legal Notices, and Forms</a
                         >
                       </li>
                     </ul>
@@ -4026,25 +4757,35 @@
                   >
                     <ul class="ss-mobile-menu-list">
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/enrollment"
-                          >New Student Enrollment</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/enrollment"
+                        >
+                          New Student Enrollment</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
                         <a
                           class="ss-mobile-menu-link"
-                          href="/homebasedinstruction"
-                          >Home Based Instruction</a
+                          href="/web/20241210042432/https://www.psd401.net/homebasedinstruction"
+                        >
+                          Home Based Instruction</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/studenttransfers"
-                          >Student Transfers</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/studenttransfers"
+                        >
+                          Student Transfers</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/75658_2"
-                          >Preschool and Transitional Kindergarten</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/75658_2"
+                        >
+                          Preschool and Transitional Kindergarten</a
                         >
                       </li>
                     </ul>
@@ -4054,8 +4795,8 @@
                   <h2 class="ss-mobile-menu-heading">
                     <button
                       aria-expanded="false"
-                      aria-controls="ss-mobile-menu11"
-                      id="ss-mobile-menu-heading11"
+                      aria-controls="ss-mobile-menu10"
+                      id="ss-mobile-menu-heading10"
                       class="ss-button"
                       data-link="/22361_1"
                     >
@@ -4065,14 +4806,17 @@
                   </h2>
                   <div
                     role="region"
-                    id="ss-mobile-menu11"
+                    id="ss-mobile-menu10"
                     class="ss-mobile-menu-group"
-                    aria-labelledby="ss-mobile-menu-heading11"
+                    aria-labelledby="ss-mobile-menu-heading10"
                   >
                     <ul class="ss-mobile-menu-list">
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/102981_2"
-                          >Teaching and Learning</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/102981_2"
+                        >
+                          Teaching and Learning</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
@@ -4096,96 +4840,94 @@
                         >
                           <ul class="ss-mobile-menu-list">
                             <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/section504"
-                                >Section 504</a
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/section504"
+                              >
+                                Section 504</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="/preschoolandearlylearning"
-                                >Preschool and Early Learning</a
+                                href="/web/20241210042432/https://www.psd401.net/preschoolandearlylearning"
+                              >
+                                Preschool and Early Learning</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/70611_3"
-                                >Highly Capable</a
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/70611_3"
+                              >
+                                Highly Capable</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/70613_3"
-                                >Multilingual Learners</a
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/70613_3"
+                              >
+                                Multilingual Learners</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/70615_3"
-                                >Homeless Assistance</a
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/70615_3"
+                              >
+                                Homeless Assistance</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/70620_3"
-                                >Home Hospital</a
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/70620_3"
+                              >
+                                Home Hospital</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/70622_3"
-                                >Native American Education</a
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/70622_3"
+                              >
+                                Native American Education</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/70625_3"
-                                >Title I and Learning Assistance Program</a
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/70625_3"
+                              >
+                                Title I and Learning Assistance Program</a
                               >
                             </li>
                           </ul>
                         </div>
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/75660_2"
-                          >Elementary Education</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/75660_2"
+                        >
+                          Elementary Education</a
+                        >
+                      </li>
+                      <li class="ss-mobile-menu-level-2">
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/75663_2"
+                        >
+                          Secondary Education</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
                         <h3 class="">
                           <button
                             aria-expanded="false"
-                            aria-controls="ss-mobile-menu7"
-                            id="ss-mobile-menu-heading7"
-                            class="ss-button"
-                            data-link="/75663_2"
-                          >
-                            <span>Secondary Education</span
-                            ><i class="fa-solid fa-chevron-down"></i>
-                          </button>
-                        </h3>
-                        <div
-                          role="region"
-                          id="ss-mobile-menu7"
-                          class="ss-mobile-menu-group"
-                          aria-labelledby="ss-mobile-menu-heading7"
-                        >
-                          <ul class="ss-mobile-menu-list">
-                            <li class="ss-mobile-menu-level-3">
-                              <a
-                                class="ss-mobile-menu-link"
-                                href="/collegeandcareer"
-                                >College and Career Services</a
-                              >
-                            </li>
-                            <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/81278_3"
-                                >High School and Beyond Planning</a
-                              >
-                            </li>
-                          </ul>
-                        </div>
-                      </li>
-                      <li class="ss-mobile-menu-level-2">
-                        <h3 class="">
-                          <button
-                            aria-expanded="false"
-                            aria-controls="ss-mobile-menu10"
-                            id="ss-mobile-menu-heading10"
+                            aria-controls="ss-mobile-menu9"
+                            id="ss-mobile-menu-heading9"
                             class="ss-button"
                             data-link="/108452_2"
                           >
@@ -4195,11 +4937,42 @@
                         </h3>
                         <div
                           role="region"
-                          id="ss-mobile-menu10"
+                          id="ss-mobile-menu9"
                           class="ss-mobile-menu-group"
-                          aria-labelledby="ss-mobile-menu-heading10"
+                          aria-labelledby="ss-mobile-menu-heading9"
                         >
                           <ul class="ss-mobile-menu-list">
+                            <li class="ss-mobile-menu-level-3">
+                              <h4 class="">
+                                <button
+                                  aria-expanded="false"
+                                  aria-controls="ss-mobile-menu7"
+                                  id="ss-mobile-menu-heading7"
+                                  class="ss-button"
+                                  data-link="/74512_3"
+                                >
+                                  <span>Aviation Academy</span
+                                  ><i class="fa-solid fa-chevron-down"></i>
+                                </button>
+                              </h4>
+                              <div
+                                role="region"
+                                id="ss-mobile-menu7"
+                                class="ss-mobile-menu-group"
+                                aria-labelledby="ss-mobile-menu-heading7"
+                              >
+                                <ul class="ss-mobile-menu-list">
+                                  <li class="ss-mobile-menu-level-4">
+                                    <a
+                                      class="ss-mobile-menu-link"
+                                      href="/web/20241210042432/https://www.psd401.net/aviationenrollment"
+                                    >
+                                      Aviation Lottery and Enrollment</a
+                                    >
+                                  </li>
+                                </ul>
+                              </div>
+                            </li>
                             <li class="ss-mobile-menu-level-3">
                               <h4 class="">
                                 <button
@@ -4207,9 +4980,9 @@
                                   aria-controls="ss-mobile-menu8"
                                   id="ss-mobile-menu-heading8"
                                   class="ss-button"
-                                  data-link="/74512_3"
+                                  data-link="/74519_3"
                                 >
-                                  <span>Aviation Academy</span
+                                  <span>Health Sciences</span
                                   ><i class="fa-solid fa-chevron-down"></i>
                                 </button>
                               </h4>
@@ -4223,38 +4996,9 @@
                                   <li class="ss-mobile-menu-level-4">
                                     <a
                                       class="ss-mobile-menu-link"
-                                      href="/aviationenrollment"
-                                      >Aviation Lottery and Enrollment</a
+                                      href="/web/20241210042432/https://www.psd401.net/healthsciences"
                                     >
-                                  </li>
-                                </ul>
-                              </div>
-                            </li>
-                            <li class="ss-mobile-menu-level-3">
-                              <h4 class="">
-                                <button
-                                  aria-expanded="false"
-                                  aria-controls="ss-mobile-menu9"
-                                  id="ss-mobile-menu-heading9"
-                                  class="ss-button"
-                                  data-link="/74519_3"
-                                >
-                                  <span>Health Sciences</span
-                                  ><i class="fa-solid fa-chevron-down"></i>
-                                </button>
-                              </h4>
-                              <div
-                                role="region"
-                                id="ss-mobile-menu9"
-                                class="ss-mobile-menu-group"
-                                aria-labelledby="ss-mobile-menu-heading9"
-                              >
-                                <ul class="ss-mobile-menu-list">
-                                  <li class="ss-mobile-menu-level-4">
-                                    <a
-                                      class="ss-mobile-menu-link"
-                                      href="/healthsciences"
-                                      >Health Sciences Home</a
+                                      Health Sciences Home</a
                                     >
                                   </li>
                                 </ul>
@@ -4264,26 +5008,43 @@
                         </div>
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/curriculum"
-                          >Curriculum</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/curriculum"
+                        >
+                          Curriculum</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/elacurriculum"
-                          >ELA Curriculum Adoption</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/elacurriculum"
+                        >
+                          ELA Curriculum Adoption</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/mtss">MTSS</a>
-                      </li>
-                      <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/80639_2"
-                          >Special Education</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/mtss"
+                        >
+                          MTSS</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/schoolsupplies"
-                          >School Supplies</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/80639_2"
+                        >
+                          Special Education</a
+                        >
+                      </li>
+                      <li class="ss-mobile-menu-level-2">
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/schoolsupplies"
+                        >
+                          School Supplies</a
                         >
                       </li>
                     </ul>
@@ -4293,8 +5054,8 @@
                   <h2 class="ss-mobile-menu-heading">
                     <button
                       aria-expanded="false"
-                      aria-controls="ss-mobile-menu13"
-                      id="ss-mobile-menu-heading13"
+                      aria-controls="ss-mobile-menu12"
+                      id="ss-mobile-menu-heading12"
                       class="ss-button"
                       data-link="/22362_1"
                     >
@@ -4304,17 +5065,17 @@
                   </h2>
                   <div
                     role="region"
-                    id="ss-mobile-menu13"
+                    id="ss-mobile-menu12"
                     class="ss-mobile-menu-group"
-                    aria-labelledby="ss-mobile-menu-heading13"
+                    aria-labelledby="ss-mobile-menu-heading12"
                   >
                     <ul class="ss-mobile-menu-list">
                       <li class="ss-mobile-menu-level-2">
                         <h3 class="">
                           <button
                             aria-expanded="false"
-                            aria-controls="ss-mobile-menu12"
-                            id="ss-mobile-menu-heading12"
+                            aria-controls="ss-mobile-menu11"
+                            id="ss-mobile-menu-heading11"
                             class="ss-button"
                             data-link="/75675_2"
                           >
@@ -4324,70 +5085,84 @@
                         </h3>
                         <div
                           role="region"
-                          id="ss-mobile-menu12"
+                          id="ss-mobile-menu11"
                           class="ss-mobile-menu-group"
-                          aria-labelledby="ss-mobile-menu-heading12"
+                          aria-labelledby="ss-mobile-menu-heading11"
                         >
                           <ul class="ss-mobile-menu-list">
                             <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/counseling"
-                                >Counseling Program</a
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/counseling"
+                              >
+                                Counseling Program</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="/healthservices"
-                                >Health Services</a
+                                href="/web/20241210042432/https://www.psd401.net/healthservices"
+                              >
+                                Health Services</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="/homelessassistance"
-                                >Homeless Assistance</a
+                                href="/web/20241210042432/https://www.psd401.net/homelessassistance"
+                              >
+                                Homeless Assistance</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="/homehospital"
-                                >Home Hospital</a
+                                href="/web/20241210042432/https://www.psd401.net/homehospital"
+                              >
+                                Home Hospital</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="/suicideprevention"
-                                >Suicide Prevention</a
+                                href="/web/20241210042432/https://www.psd401.net/suicideprevention"
+                              >
+                                Suicide Prevention</a
                               >
                             </li>
                           </ul>
                         </div>
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/75676_2"
-                          >Safety and Security</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/75676_2"
+                        >
+                          Safety and Security</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/75678_2"
-                          >Technology Resources</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/75678_2"
+                        >
+                          Technology Resources</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/75679_2"
-                          >School Transportation</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/75679_2"
+                        >
+                          School Transportation</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/75681_2"
-                          >School Meals</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/75681_2"
                         >
-                      </li>
-                      <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/118395_2"
-                          >Activities and Athletics</a
+                          School Meals</a
                         >
                       </li>
                     </ul>
@@ -4397,8 +5172,8 @@
                   <h2 class="ss-mobile-menu-heading">
                     <button
                       aria-expanded="false"
-                      aria-controls="ss-mobile-menu17"
-                      id="ss-mobile-menu-heading17"
+                      aria-controls="ss-mobile-menu16"
+                      id="ss-mobile-menu-heading16"
                       class="ss-button"
                       data-link="/22363_1"
                     >
@@ -4408,29 +5183,104 @@
                   </h2>
                   <div
                     role="region"
-                    id="ss-mobile-menu17"
+                    id="ss-mobile-menu16"
                     class="ss-mobile-menu-group"
-                    aria-labelledby="ss-mobile-menu-heading17"
+                    aria-labelledby="ss-mobile-menu-heading16"
                   >
                     <ul class="ss-mobile-menu-list">
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/81138_2"
-                          >Family Resources</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/81138_2"
+                        >
+                          Family Resources</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/handbook"
-                          >Parent and Student Handbook</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/handbook"
+                        >
+                          Parent and Student Handbook</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/81139_2"
-                          >Schoology</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/81139_2"
+                        >
+                          Schoology</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/childcare"
-                          >At-School Child Care</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/childcare"
+                        >
+                          At-School Child Care</a
+                        >
+                      </li>
+                      <li class="ss-mobile-menu-level-2">
+                        <h3 class="">
+                          <button
+                            aria-expanded="false"
+                            aria-controls="ss-mobile-menu13"
+                            id="ss-mobile-menu-heading13"
+                            class="ss-button"
+                            data-link="/75691_2"
+                          >
+                            <span>Volunteering and Community Partnerships</span
+                            ><i class="fa-solid fa-chevron-down"></i>
+                          </button>
+                        </h3>
+                        <div
+                          role="region"
+                          id="ss-mobile-menu13"
+                          class="ss-mobile-menu-group"
+                          aria-labelledby="ss-mobile-menu-heading13"
+                        >
+                          <ul class="ss-mobile-menu-list">
+                            <li class="ss-mobile-menu-level-3">
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/partnerships"
+                              >
+                                Community Partnership</a
+                              >
+                            </li>
+                            <li class="ss-mobile-menu-level-3">
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/flyers"
+                              >
+                                Flyers</a
+                              >
+                            </li>
+                            <li class="ss-mobile-menu-level-3">
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/gifts"
+                              >
+                                Gifts & Donations</a
+                              >
+                            </li>
+                            <li class="ss-mobile-menu-level-3">
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/volunteer"
+                              >
+                                Volunteering</a
+                              >
+                            </li>
+                          </ul>
+                        </div>
+                      </li>
+                      <li class="ss-mobile-menu-level-2">
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/facilityrentals"
+                        >
+                          Facility Rentals</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
@@ -4440,9 +5290,9 @@
                             aria-controls="ss-mobile-menu14"
                             id="ss-mobile-menu-heading14"
                             class="ss-button"
-                            data-link="/75691_2"
+                            data-link="/95440_2"
                           >
-                            <span>Volunteering and Community Partnerships</span
+                            <span>Request and Report</span
                             ><i class="fa-solid fa-chevron-down"></i>
                           </button>
                         </h3>
@@ -4456,32 +5306,37 @@
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="/partnerships"
-                                >Community Partnership</a
+                                href="/web/20241210042432/https://www.psd401.net/report"
+                              >
+                                Report a Concern</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/flyers"
-                                >Flyers</a
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/65697_3"
+                              >
+                                Request Student Transcripts</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/gifts"
-                                >Gifts & Donations</a
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/65720_3"
+                              >
+                                Request Student Records</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/volunteer"
-                                >Volunteering</a
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/65722_3"
+                              >
+                                Public Records Request</a
                               >
                             </li>
                           </ul>
                         </div>
-                      </li>
-                      <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/facilityrentals"
-                          >Facility Rentals</a
-                        >
                       </li>
                       <li class="ss-mobile-menu-level-2">
                         <h3 class="">
@@ -4490,9 +5345,9 @@
                             aria-controls="ss-mobile-menu15"
                             id="ss-mobile-menu-heading15"
                             class="ss-button"
-                            data-link="/95440_2"
+                            data-link="/104666_2"
                           >
-                            <span>Request and Report</span
+                            <span>Community Resources</span
                             ><i class="fa-solid fa-chevron-down"></i>
                           </button>
                         </h3>
@@ -4504,57 +5359,20 @@
                         >
                           <ul class="ss-mobile-menu-list">
                             <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/report"
-                                >Report a Concern</a
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/72097_3"
                               >
-                            </li>
-                            <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/65697_3"
-                                >Request Student Transcripts</a
-                              >
-                            </li>
-                            <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/65720_3"
-                                >Request Student Records</a
-                              >
-                            </li>
-                            <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/65722_3"
-                                >Public Records Request</a
-                              >
-                            </li>
-                          </ul>
-                        </div>
-                      </li>
-                      <li class="ss-mobile-menu-level-2">
-                        <h3 class="">
-                          <button
-                            aria-expanded="false"
-                            aria-controls="ss-mobile-menu16"
-                            id="ss-mobile-menu-heading16"
-                            class="ss-button"
-                            data-link="/104666_2"
-                          >
-                            <span>Community Resources</span
-                            ><i class="fa-solid fa-chevron-down"></i>
-                          </button>
-                        </h3>
-                        <div
-                          role="region"
-                          id="ss-mobile-menu16"
-                          class="ss-mobile-menu-group"
-                          aria-labelledby="ss-mobile-menu-heading16"
-                        >
-                          <ul class="ss-mobile-menu-list">
-                            <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/72097_3"
-                                >Washington State Department of Health
+                                Washington State Department of Health
                                 Resources</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
-                              <a class="ss-mobile-menu-link" href="/72098_3"
-                                >Gig Harbor and Key Peninsula Community
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="/web/20241210042432/https://www.psd401.net/72098_3"
+                              >
+                                Gig Harbor and Key Peninsula Community
                                 Resources</a
                               >
                             </li>
@@ -4562,46 +5380,61 @@
                         </div>
                       </li>
                       <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/parentsquare"
-                          >ParentSquare</a
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/parentsquare"
+                        >
+                          ParentSquare</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
                         <a
                           class="ss-mobile-menu-link"
-                          href="/powerschoolparentportal"
-                          >PowerSchool Parent Portal</a
+                          href="/web/20241210042432/https://www.psd401.net/powerschoolparentportal"
                         >
-                      </li>
-                      <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/radio"
-                          >KGHP Radio</a
-                        >
-                      </li>
-                      <li class="ss-mobile-menu-level-2">
-                        <a class="ss-mobile-menu-link" href="/purplestar"
-                          >Military Families Purple Star Program</a
+                          PowerSchool Parent Portal</a
                         >
                       </li>
                       <li class="ss-mobile-menu-level-2">
                         <a
                           class="ss-mobile-menu-link"
-                          href="/varsityletterincommunityservice"
-                          >Varsity Letter in Community Service</a
+                          href="/web/20241210042432/https://www.psd401.net/radio"
+                        >
+                          KGHP Radio</a
+                        >
+                      </li>
+                      <li class="ss-mobile-menu-level-2">
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/purplestar"
+                        >
+                          Military Families Purple Star Program</a
+                        >
+                      </li>
+                      <li class="ss-mobile-menu-level-2">
+                        <a
+                          class="ss-mobile-menu-link"
+                          href="/web/20241210042432/https://www.psd401.net/varsityletterincommunityservice"
+                        >
+                          Varsity Letter in Community Service</a
                         >
                       </li>
                     </ul>
                   </div>
                 </li>
                 <li class="ss-mobile-menu-heading ss-mobile-menu-level-1">
-                  <a class="ss-mobile-menu-link" href="/jobs">Employment</a>
+                  <a
+                    class="ss-mobile-menu-link"
+                    href="/web/20241210042432/https://www.psd401.net/jobs"
+                    >Employment</a
+                  >
                 </li>
                 <li class="ss-mobile-menu-level-1 ss-mobile-menu-schools">
                   <h2 class="ss-mobile-menu-heading">
                     <button
                       aria-expanded="false"
-                      aria-controls="ss-mobile-menu21"
-                      id="ss-mobile-menu-heading21"
+                      aria-controls="ss-mobile-menu20"
+                      id="ss-mobile-menu-heading20"
                       class="ss-button"
                     >
                       <span>Schools</span
@@ -4610,11 +5443,57 @@
                   </h2>
                   <div
                     role="region"
-                    id="ss-mobile-menu21"
+                    id="ss-mobile-menu20"
                     class="ss-mobile-menu-group"
-                    aria-labelledby="ss-mobile-menu-heading21"
+                    aria-labelledby="ss-mobile-menu-heading20"
                   >
                     <ul class="ss-mobile-menu-list">
+                      <li class="ss-mobile-menu-level-2">
+                        <h3 class="">
+                          <button
+                            aria-expanded="false"
+                            aria-controls="ss-mobile-menu17"
+                            id="ss-mobile-menu-heading17"
+                            class="ss-button"
+                          >
+                            <span>High Schools</span
+                            ><i class="fa-solid fa-chevron-down"></i>
+                          </button>
+                        </h3>
+                        <div
+                          role="region"
+                          id="ss-mobile-menu17"
+                          class="ss-mobile-menu-group"
+                          aria-labelledby="ss-mobile-menu-heading17"
+                        >
+                          <ul class="ss-mobile-menu-list">
+                            <li class="ss-mobile-menu-level-3">
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="https://web.archive.org/web/20241210042432/https://ghh.psd401.net/"
+                              >
+                                Gig Harbor High School</a
+                              >
+                            </li>
+                            <li class="ss-mobile-menu-level-3">
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="https://web.archive.org/web/20241210042432/https://hbh.psd401.net/"
+                              >
+                                Henderson Bay High School</a
+                              >
+                            </li>
+                            <li class="ss-mobile-menu-level-3">
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="https://web.archive.org/web/20241210042432/https://phs.psd401.net/"
+                              >
+                                Peninsula High School</a
+                              >
+                            </li>
+                          </ul>
+                        </div>
+                      </li>
                       <li class="ss-mobile-menu-level-2">
                         <h3 class="">
                           <button
@@ -4623,7 +5502,7 @@
                             id="ss-mobile-menu-heading18"
                             class="ss-button"
                           >
-                            <span>High Schools</span
+                            <span>Middle Schools</span
                             ><i class="fa-solid fa-chevron-down"></i>
                           </button>
                         </h3>
@@ -4637,22 +5516,33 @@
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="https://ghh.psd401.net"
-                                >Gig Harbor High School</a
+                                href="https://web.archive.org/web/20241210042432/https://gms.psd401.net/"
+                              >
+                                Goodman Middle School</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="https://hbh.psd401.net"
-                                >Henderson Bay High School</a
+                                href="https://web.archive.org/web/20241210042432/https://hrm.psd401.net/"
+                              >
+                                Harbor Ridge Middle School</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="https://phs.psd401.net"
-                                >Peninsula High School</a
+                                href="https://web.archive.org/web/20241210042432/https://kpm.psd401.net/"
+                              >
+                                Key Peninsula Middle School</a
+                              >
+                            </li>
+                            <li class="ss-mobile-menu-level-3">
+                              <a
+                                class="ss-mobile-menu-link"
+                                href="https://web.archive.org/web/20241210042432/https://kms.psd401.net/"
+                              >
+                                Kopachuck Middle School</a
                               >
                             </li>
                           </ul>
@@ -4666,7 +5556,7 @@
                             id="ss-mobile-menu-heading19"
                             class="ss-button"
                           >
-                            <span>Middle Schools</span
+                            <span>Elementary Schools</span
                             ><i class="fa-solid fa-chevron-down"></i>
                           </button>
                         </h3>
@@ -4680,121 +5570,81 @@
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="https://gms.psd401.net"
-                                >Goodman Middle School</a
+                                href="https://web.archive.org/web/20241210042432/https://aes.psd401.net/"
+                              >
+                                Artondale Elementary School</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="https://hrm.psd401.net"
-                                >Harbor Ridge Middle School</a
+                                href="https://web.archive.org/web/20241210042432/https://des.psd401.net/"
+                              >
+                                Discovery Elementary School</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="https://kpm.psd401.net"
-                                >Key Peninsula Middle School</a
+                                href="https://web.archive.org/web/20241210042432/https://ees.psd401.net/"
+                              >
+                                Evergreen Elementary School</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="https://kms.psd401.net"
-                                >Kopachuck Middle School</a
+                                href="https://web.archive.org/web/20241210042432/https://hhe.psd401.net/"
                               >
-                            </li>
-                          </ul>
-                        </div>
-                      </li>
-                      <li class="ss-mobile-menu-level-2">
-                        <h3 class="">
-                          <button
-                            aria-expanded="false"
-                            aria-controls="ss-mobile-menu20"
-                            id="ss-mobile-menu-heading20"
-                            class="ss-button"
-                          >
-                            <span>Elementary Schools</span
-                            ><i class="fa-solid fa-chevron-down"></i>
-                          </button>
-                        </h3>
-                        <div
-                          role="region"
-                          id="ss-mobile-menu20"
-                          class="ss-mobile-menu-group"
-                          aria-labelledby="ss-mobile-menu-heading20"
-                        >
-                          <ul class="ss-mobile-menu-list">
-                            <li class="ss-mobile-menu-level-3">
-                              <a
-                                class="ss-mobile-menu-link"
-                                href="https://aes.psd401.net"
-                                >Artondale Elementary School</a
+                                Harbor Heights Elementary School</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="https://des.psd401.net"
-                                >Discovery Elementary School</a
+                                href="https://web.archive.org/web/20241210042432/https://mes.psd401.net/"
+                              >
+                                Minter Creek Elementary School</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="https://ees.psd401.net"
-                                >Evergreen Elementary School</a
+                                href="https://web.archive.org/web/20241210042432/https://pie.psd401.net/"
+                              >
+                                Pioneer Elementary School</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="https://hhe.psd401.net"
-                                >Harbor Heights Elementary School</a
+                                href="https://web.archive.org/web/20241210042432/https://pes.psd401.net/"
+                              >
+                                Purdy Elementary School</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="https://mes.psd401.net"
-                                >Minter Creek Elementary School</a
+                                href="https://web.archive.org/web/20241210042432/https://swe.psd401.net/"
+                              >
+                                Swift Water Elementary School</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="https://pie.psd401.net"
-                                >Pioneer Elementary School</a
+                                href="https://web.archive.org/web/20241210042432/https://ves.psd401.net/"
+                              >
+                                Vaughn Elementary School</a
                               >
                             </li>
                             <li class="ss-mobile-menu-level-3">
                               <a
                                 class="ss-mobile-menu-link"
-                                href="https://pes.psd401.net"
-                                >Purdy Elementary School</a
+                                href="https://web.archive.org/web/20241210042432/https://vge.psd401.net/"
                               >
-                            </li>
-                            <li class="ss-mobile-menu-level-3">
-                              <a
-                                class="ss-mobile-menu-link"
-                                href="https://swe.psd401.net"
-                                >Swift Water Elementary School</a
-                              >
-                            </li>
-                            <li class="ss-mobile-menu-level-3">
-                              <a
-                                class="ss-mobile-menu-link"
-                                href="https://ves.psd401.net"
-                                >Vaughn Elementary School</a
-                              >
-                            </li>
-                            <li class="ss-mobile-menu-level-3">
-                              <a
-                                class="ss-mobile-menu-link"
-                                href="https://vge.psd401.net"
-                                >Voyager Elementary School</a
+                                Voyager Elementary School</a
                               >
                             </li>
                           </ul>
@@ -4808,17 +5658,6 @@
           </div>
         </div>
       </div>
-      <script>
-        $(document).ready(() => {
-          const lightboxModal = $("#ss-header-mobile-menu");
-          lightboxModal.on("show.bs.modal", function (e) {
-            $("html").addClass("modal-open");
-          });
-          lightboxModal.on("hide.bs.modal", function (e) {
-            $("html").removeClass("modal-open");
-          });
-        });
-      </script>
     </div>
     <div class="banner_area site_header center-block"></div>
     <div class="clearfix"></div>
@@ -4829,14 +5668,14 @@
       <link
         rel="stylesheet"
         type="text/css"
-        href="https://s3.amazonaws.com/scschoolfiles/5433/css5551.css"
+        href="https://web.archive.org/web/20241210042432cs_/https://s3.amazonaws.com/scschoolfiles/5433/css5551.css"
       />
       <style>
         .whiteBGlink {
           color: Transparent !important;
         }
         .whiteBGlink:hover {
-          color: #c3c3c300 !important;
+          color: #000000000000 !important;
         }
         .textOnWhite {
           color: #000000 !important;
@@ -5149,44 +5988,46 @@
       <!-- INCLUDING LOCAL VERSION OF CDN FILE FOR DEVELOPMENT -->
       <link
         rel="stylesheet"
-        href="/includes/css/fullcalendar.css?v=20240418"
+        href="/web/20241210042432cs_/https://www.psd401.net/includes/css/fullcalendar.css?v=20240418"
         type="text/css"
       />
       <script
         type="text/javascript"
-        src="/includes/js/fullcalendar-toolbar.js"
+        src="/web/20241210042432js_/https://www.psd401.net/includes/js/fullcalendar-toolbar.js"
       ></script>
       <link
-        href="//cdn.smartsites.parentsquare.com/lib/fullcalendar/fullcalendar.print.css"
+        href="//web.archive.org/web/20241210042432cs_/https://cdn.smartsites.parentsquare.com/lib/fullcalendar/fullcalendar.print.css"
         rel="stylesheet"
         media="print"
       />
-      <script src="/includes/js/fullcalendar_ocr.js?v=20240418"></script>
+      <script src="/web/20241210042432js_/https://www.psd401.net/includes/js/fullcalendar_ocr.js?v=20240418"></script>
+
       <script
         async
-        src="//cdn.smartsites.parentsquare.com/lib/fullcalendar/gcal.js"
+        src="//web.archive.org/web/20241210042432js_/https://cdn.smartsites.parentsquare.com/lib/fullcalendar/gcal.js"
       ></script>
       <link
         rel="stylesheet"
-        href="/includes/css/calendar.css"
+        href="/web/20241210042432cs_/https://www.psd401.net/includes/css/calendar.css"
         type="text/css"
       />
       <script
         async
         type="text/javascript"
-        src="/includes/js/jquery.qtip.js"
+        src="/web/20241210042432js_/https://www.psd401.net/includes/js/jquery.qtip.js"
       ></script>
+
       <script
         async
         type="text/javascript"
-        src="/includes/js/qtipADA.js"
+        src="/web/20241210042432js_/https://www.psd401.net/includes/js/qtipADA.js"
       ></script>
       <link
         rel="stylesheet"
-        href="/includes/css/jquery.qtip.css"
+        href="/web/20241210042432cs_/https://www.psd401.net/includes/css/jquery.qtip.css"
         type="text/css"
       />
-      <script src="https://cdn.smartsites.parentsquare.com/lib/js/loader.js"></script>
+      <script src="https://web.archive.org/web/20241210042432js_/https://cdn.smartsites.parentsquare.com/lib/js/loader.js"></script>
 
       <script>
         $(function () {
@@ -5352,7 +6193,9 @@
         <div class="col-md-12 content-color">
           <ol class="breadcrumb">
             <li>
-              <a href="/22359">Our District</a>
+              <a href="/web/20241210042432/https://www.psd401.net/22359"
+                >Our District</a
+              >
             </li>
             <li class="active">Non-Discrimination</li>
           </ol>
@@ -5542,10 +6385,7 @@
           <div class="directoryModalContent modal-content"></div>
         </div>
       </div>
-      <div
-        id="ss-components-shared-modal"
-        class="modal ss-lightbox-modal ss-lightbox-modal-default"
-      >
+      <div id="ss-components-shared-modal" class="modal ss-lightbox-modal">
         <div class="ss-lightbox-modal-content-wrap">
           <div class="ss-lightbox-modal-content">
             <button class="ss-button ss-close-modal" data-dismiss="modal">
@@ -5559,34 +6399,23 @@
           </div>
         </div>
       </div>
-      <script>
-        $(document).ready(() => {
-          const lightboxModal = $("#ss-components-shared-modal");
-          lightboxModal.on("show.bs.modal", function (e) {
-            $("html").addClass("modal-open");
-          });
-          lightboxModal.on("hide.bs.modal", function (e) {
-            $("html").removeClass("modal-open");
-          });
-        });
-      </script>
     </div>
     <div class="clear"></div>
-    <script src="//cdn.smartsites.parentsquare.com/lib/js/jquery.easing.min.js"></script>
+    <script src="//web.archive.org/web/20241210042432js_/https://cdn.smartsites.parentsquare.com/lib/js/jquery.easing.min.js"></script>
 
-    <script src="//cdn.smartsites.parentsquare.com/lib/js/jquery.touchSwipe.min.js"></script>
+    <script src="//web.archive.org/web/20241210042432js_/https://cdn.smartsites.parentsquare.com/lib/js/jquery.touchSwipe.min.js"></script>
     <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.4/jquery.touchSwipe.min.js"></script>-->
     <!--This was here but we already had on our cdn, but the one we have is different.  Adding the one we have but commenting this one out incase we need to use it-->
     <script
       type="text/javascript"
-      src="/includes/js/jquery.liquid-slider.min.js"
+      src="/web/20241210042432js_/https://www.psd401.net/includes/js/jquery.liquid-slider.min.js"
     ></script>
     <!--end lesson plans-->
     <footer
       class="psq_admin_footer clearfix container footer-container-wide ss-has-footer-logo"
       id="footer_seven"
       style="
-        background-image: url(https://files.smartsites.parentsquare.com/5433/footer_logo_img_3ztdel.png);
+        background-image: url(https://web.archive.org/web/20241210042432im_/https://files.smartsites.parentsquare.com/5433/footer_logo_img_3ztdel.png);
       "
     >
       <div class="school-footer-row school-footer-top-row">
@@ -5595,7 +6424,7 @@
             <h2>Peninsula School District</h2>
             <div class="school-footer-seven-address-info">
               <a
-                href="https://www.google.com/maps/place/14015+62nd+Ave+NW+Gig+Harbor+WA+98332"
+                href="https://web.archive.org/web/20241210042432/https://www.google.com/maps/place/14015+62nd+Ave+NW+Gig+Harbor+WA+98332"
                 target="_blank"
                 ><span
                   >14015 62nd Ave NW<span
@@ -5610,18 +6439,25 @@
               ><span class="school-footer-seven-desktop-only"
                 >&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;</span
               ><span class="school-footer-seven-email"
-                ><a href="mailto:info@psd401.net">info@psd401.net</a></span
+                ><a
+                  href="https://web.archive.org/web/20241210042432/mailto:info@psd401.net"
+                  >info@psd401.net</a
+                ></span
               >
             </div>
             <div class="school-footer-seven-social-info ss-social-solid">
-              <a href="https://www.facebook.com/psd401" target="_blank"
+              <a
+                href="https://web.archive.org/web/20241210042432/https://www.facebook.com/psd401"
+                target="_blank"
                 ><i
                   class="fa-brands fa-facebook-f"
                   role="img"
                   aria-label="facebook"
                 ></i
               ></a>
-              <a href="https://www.instagram.com/psd401/" target="_blank"
+              <a
+                href="https://web.archive.org/web/20241210042432/https://www.instagram.com/psd401/"
+                target="_blank"
                 ><i
                   class="fa-brands fa-instagram"
                   role="img"
@@ -5629,7 +6465,7 @@
                 ></i
               ></a>
               <a
-                href="https://www.youtube.com/c/PeninsulaSchoolDistrict401GigHarbor"
+                href="https://web.archive.org/web/20241210042432/https://www.youtube.com/c/PeninsulaSchoolDistrict401GigHarbor"
                 target="_blank"
                 ><i
                   class="fa-brands fa-youtube"
@@ -5637,7 +6473,9 @@
                   aria-label="youtube"
                 ></i
               ></a>
-              <a href="https://www.linkedin.com/company/psd401/" target="_blank"
+              <a
+                href="https://web.archive.org/web/20241210042432/https://www.linkedin.com/company/psd401/"
+                target="_blank"
                 ><i
                   class="fa-brands fa-linkedin-in"
                   role="img"
@@ -5650,17 +6488,45 @@
         <div class="school-footer-col">
           <div class="school-footer-seven-important-links">
             <div class="school-footer-seven-custom-links">
-              <a href="https://psd401.net/80582_2">Non-Discrimination</a>
-              <a href="https://psd401.net/22370">Report a Concern</a>
-              <a href="https://app.peachjar.com/flyers/all/districts/3099/"
-                >Peachjar Flyers</a
+              <a
+                href="https://web.archive.org/web/20241210042432/https://psd401.net/80582_2"
               >
-              <a href="https://psd401.net/53377_3">Newsroom</a>
+                Non-Discrimination</a
+              >
+              <a
+                href="https://web.archive.org/web/20241210042432/https://psd401.net/22370"
+              >
+                Report a Concern</a
+              >
+              <a
+                href="https://web.archive.org/web/20241210042432/https://app.peachjar.com/flyers/all/districts/3099/"
+              >
+                Peachjar Flyers</a
+              >
+              <a
+                href="https://web.archive.org/web/20241210042432/https://psd401.net/53377_3"
+              >
+                Newsroom</a
+              >
             </div>
             <div class="school-footer-seven-site-links">
-              <a class="site-link" href="/site_map">Site Map</a>
-              <a class="site-link" href="/accessibility">Accessibility</a>
-              <a class="site-link" href="/index.php?pageID=login">Login</a>
+              <a
+                class="site-link"
+                href="/web/20241210042432/https://www.psd401.net/site_map"
+                >Site Map</a
+              >
+              <a
+                class="site-link"
+                href="/web/20241210042432/https://www.psd401.net/accessibility"
+              >
+                Accessibility</a
+              >
+              <a
+                class="site-link"
+                href="/web/20241210042432/https://www.psd401.net/index.php?pageID=login"
+              >
+                Login</a
+              >
             </div>
           </div>
         </div>
@@ -5668,7 +6534,7 @@
       <div class="school-footer-row school-footer-bottom-row">
         <div class="school-footer-other">
           <div class="school-footer-copyright-name">
-            Contents © 2025 Peninsula School District
+            Contents © 2024 Peninsula School District
           </div>
           <div class="school-footer-disclaimer-text">
             The Peninsula School District does not discriminate on the basis of
@@ -5691,7 +6557,7 @@
             <a
               class="smart-sites-link"
               target="_blank"
-              href="https://www.parentsquare.com"
+              href="https://web.archive.org/web/20241210042432/https://www.parentsquare.com/"
               aria-label="Smart Sites, Powered by ParentSquare"
               id="smart-sites-link"
               ><svg
@@ -5762,7 +6628,7 @@
               <a
                 class="google-play-link"
                 target="_blank"
-                href="https://play.google.com/store/apps/details?id=com.parentsquare.psapp"
+                href="https://web.archive.org/web/20241210042432/https://play.google.com/store/apps/details?id=com.parentsquare.psapp"
                 aria-label="Get the ParentSquare app on Google Play"
                 id="google-play-link"
                 ><svg
@@ -5860,7 +6726,7 @@
                   ></path></svg
               ></a>
               <a
-                href="https://apps.apple.com/us/app/parentsquare/id908126679"
+                href="https://web.archive.org/web/20241210042432/https://apps.apple.com/us/app/parentsquare/id908126679"
                 target="_blank"
                 aria-label="Download the ParentSquare app on the App Store"
                 id="app-store-link"
@@ -6228,5 +7094,25 @@
         });
       });
     </script>
+    <!--
+     FILE ARCHIVED ON 04:24:32 Dec 10, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:31:27 Jan 22, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+    <!--
+playback timings (ms):
+  captures_list: 0.51
+  exclusion.robots: 0.024
+  exclusion.robots.policy: 0.014
+  esindex: 0.01
+  cdx.remote: 85.241
+  LoadShardBlock: 240.127 (3)
+  PetaboxLoader3.datanode: 132.934 (4)
+  PetaboxLoader3.resolve: 144.372 (2)
+  load_resource: 117.008
+-->
   </body>
 </html>

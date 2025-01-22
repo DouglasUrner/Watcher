@@ -4,10 +4,12 @@ for url in $(cat urls.txt); do
     echo '>>>' $url
     #name=$(echo $url | sed s./._.g)
     #path=out/$name
-    dir=$(./pathogen.sh $url)
+    dir=out/$(./pathogen.sh $url)
     name=$(date -Iseconds)
-    path=$dir/$timestamp
+    path=$dir/$name
     mkdir -p $dir
+    #echo $path
+    #exit
     curl -m 60 -A "GaelanSteeleBot/1.0; (+https://gaelan.me)" $url > $path
     if ! prettier --write --parser html $path; then
         tidy -mi --force-output true -ashtml --drop-empty-elements no --drop-empty-paras no --fix-style-tags no --join-styles no --merge-emphasis no --tidy-mark no $path
