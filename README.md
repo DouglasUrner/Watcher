@@ -17,9 +17,9 @@ Get alerts to policy changes.
 ## Install
 
 You'll need:
-* curl
-* [prettier] (which requires nodejs)
-* git
+* [curl](https://github.com/curl/curl)
+* [prettier](https://prettier.io) (you may also need to install nodejs)
+* [git](https://git-scm.org)
 * [HTML tidy](http://html-tidy.org)
 
 ## Usage
