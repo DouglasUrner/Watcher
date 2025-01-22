@@ -6,6 +6,7 @@
 # TODO
 # - Use --no-progress-meter on curl
 # - Command line options: --verbose
+# - Recurse following links on page (switch to wget?)
 
 for url in $(cat urls.txt); do
     echo -n '>>>' $url:
